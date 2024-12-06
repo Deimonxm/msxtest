@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "millenaire:recipes/cider": {
+    "criteria": {
+      "has_grapes": "2024-12-06 02:24:59 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_planks": "2024-12-06 01:56:09 +0000"
@@ -443,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2024-12-06 02:21:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:04:07 +0000"
@@ -527,6 +539,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2024-12-06 02:26:58 +0000"
     },
     "done": true
   },
@@ -662,6 +680,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2024-12-06 02:21:18 +0000"
+    },
+    "done": false
+  },
   "aether_legacy:recipes/tools/iron_pendant": {
     "criteria": {
       "has_iron": "2024-12-06 02:04:07 +0000"
@@ -764,9 +788,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2024-12-06 02:26:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
       "has_planks": "2024-12-06 01:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2024-12-06 02:26:58 +0000"
     },
     "done": true
   }
