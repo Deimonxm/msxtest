@@ -233,6 +233,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-06 22:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-12-06 05:52:52 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-05 15:12:52 +0000"
@@ -375,6 +387,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-06 02:17:00 +0000",
       "porkchop": "2024-12-06 05:42:00 +0000",
+      "cooked_cod": "2024-12-06 05:55:43 +0000",
       "bread": "2024-12-06 05:46:39 +0000",
       "rotten_flesh": "2024-12-06 02:34:22 +0000",
       "carrot": "2024-12-06 05:42:50 +0000"
@@ -534,6 +547,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-12-06 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 05:52:52 +0000"
     },
     "done": true
   },
