@@ -919,3 +919,41 @@
 [23:10:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> perame ya vuelvo
 [23:10:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: JoelDMC lost connection: Disconnected
 [23:10:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC left the game
+[23:13:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Diamonds!]
+[23:14:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm lost connection: Disconnected
+[23:14:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm left the game
+[23:16:12] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[23:16:12] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,jei@4.16.1.1012,damageindicatorsmod@1.0,botania@r1.10-364,horror_elements_mod@1.0.0,betternether@0.1.8.6,roguelike@2.4.6,mocreatures@12.4.5,sexmod@1.9.0,patchouli@1.0-23.6,xaerominimap@24.5.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.0,FML@8.0.99.99,mutantbeasts@1.12.2-1.0.2,atum@2.0.20,caves@1.0.0,iceologer@1.5.3,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.2,chisel@MC1.12.2-1.0.2.45,xaerominimap_core@1.12.2-1.0,waila@1.8.26,aether_legacy@1.5.3.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,ruins@17.2,twilightforest@3.11.1021,geckolib3@3.0.30
+[23:16:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:16:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Deimonxm[/127.238.100.251:42991] logged in with entity id 58218 at (294.04435306175526, 70.0, -145.8139457805255)
+[23:16:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm joined the game
+[23:16:13] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Deimonxm'/58218, l='world', x=294.04, y=70.00, z=-145.81] connected. Sending ping
+[23:17:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm lost connection: Disconnected
+[23:17:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm left the game
+[23:18:07] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[23:18:07] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 36 mods : minecraft@1.12.2,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,jei@4.16.1.1012,damageindicatorsmod@1.0,botania@r1.10-364,horror_elements_mod@1.0.0,betternether@0.1.8.6,roguelike@2.4.6,mocreatures@12.4.5,sexmod@1.9.0,patchouli@1.0-23.6,xaerominimap@24.5.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.0,FML@8.0.99.99,mutantbeasts@1.12.2-1.0.2,atum@2.0.20,caves@1.0.0,iceologer@1.5.3,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.2,chisel@MC1.12.2-1.0.2.45,xaerominimap_core@1.12.2-1.0,waila@1.8.26,aether_legacy@1.5.3.2,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,ruins@17.2,twilightforest@3.11.1021,geckolib3@3.0.30
+[23:18:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:18:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: JoelDMC[/127.135.53.133:33833] logged in with entity id 59770 at (93.35043096805516, 68.0, 431.69999998807907)
+[23:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC joined the game
+[23:18:11] [Server thread/INFO] [Waila]: Player EntityPlayerMP['JoelDMC'/59770, l='world', x=93.35, y=68.00, z=431.70] connected. Sending ping
+[23:18:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
+[23:18:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
+[23:18:17] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[23:18:17] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,jei@4.16.1.1012,damageindicatorsmod@1.0,botania@r1.10-364,horror_elements_mod@1.0.0,betternether@0.1.8.6,roguelike@2.4.6,mocreatures@12.4.5,sexmod@1.9.0,patchouli@1.0-23.6,xaerominimap@24.5.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.0,FML@8.0.99.99,mutantbeasts@1.12.2-1.0.2,atum@2.0.20,caves@1.0.0,iceologer@1.5.3,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.2,chisel@MC1.12.2-1.0.2.45,xaerominimap_core@1.12.2-1.0,waila@1.8.26,aether_legacy@1.5.3.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,ruins@17.2,twilightforest@3.11.1021,geckolib3@3.0.30
+[23:18:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:18:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Deimonxm[/127.238.100.251:53009] logged in with entity id 60008 at (323.7388389334245, 63.9375, -158.0709585747162)
+[23:18:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm joined the game
+[23:18:19] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Deimonxm'/60008, l='world', x=323.74, y=63.94, z=-158.07] connected. Sending ping
+[23:18:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: JoelDMC lost connection: Timed out
+[23:18:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC left the game
+[23:19:42] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[23:19:42] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 36 mods : minecraft@1.12.2,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,jei@4.16.1.1012,damageindicatorsmod@1.0,botania@r1.10-364,horror_elements_mod@1.0.0,betternether@0.1.8.6,roguelike@2.4.6,mocreatures@12.4.5,sexmod@1.9.0,patchouli@1.0-23.6,xaerominimap@24.5.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.0,FML@8.0.99.99,mutantbeasts@1.12.2-1.0.2,atum@2.0.20,caves@1.0.0,iceologer@1.5.3,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.2,chisel@MC1.12.2-1.0.2.45,xaerominimap_core@1.12.2-1.0,waila@1.8.26,aether_legacy@1.5.3.2,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,ruins@17.2,twilightforest@3.11.1021,geckolib3@3.0.30
+[23:19:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:19:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: JoelDMC[/127.135.53.133:51483] logged in with entity id 61905 at (93.35043096805516, 68.0, 431.69999998807907)
+[23:19:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC joined the game
+[23:19:46] [Server thread/INFO] [Waila]: Player EntityPlayerMP['JoelDMC'/61905, l='world', x=93.35, y=68.00, z=431.70] connected. Sending ping
+[23:19:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[23:19:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[23:21:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[23:21:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[23:21:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
