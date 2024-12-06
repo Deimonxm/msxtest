@@ -1,4 +1,16 @@
 {
+  "aether_legacy:recipes/misc/saddle": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:07:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_flower": "2024-12-06 23:10:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-06 02:10:17 +0000"
@@ -110,6 +122,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-06 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:07:57 +0000"
     },
     "done": true
   },
@@ -359,6 +377,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:07:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-06 01:56:09 +0000"
@@ -457,6 +481,13 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:04:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2024-12-06 23:09:16 +0000",
+      "red_flower": "2024-12-06 23:09:16 +0000"
     },
     "done": true
   },
@@ -562,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:07:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:04:07 +0000"
@@ -583,6 +620,12 @@
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2024-12-06 01:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:07:57 +0000"
     },
     "done": true
   },
@@ -642,8 +685,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-06 23:08:40 +0000",
+      "steppe": "2024-12-06 23:05:27 +0000",
       "outback": "2024-12-06 05:35:22 +0000",
-      "wasteland": "2024-12-06 05:42:30 +0000"
+      "wasteland": "2024-12-06 05:42:30 +0000",
+      "prairie": "2024-12-06 23:06:49 +0000"
     },
     "done": false
   },
@@ -755,6 +801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2024-12-06 23:09:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 05:34:21 +0000"
@@ -809,9 +861,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:07:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-06 01:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-06 22:58:47 +0000"
     },
     "done": true
   },
@@ -830,6 +894,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2024-12-06 02:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:07:57 +0000"
     },
     "done": true
   },
@@ -883,6 +953,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "husk": "2024-12-06 23:02:05 +0000",
       "zombie": "2024-12-06 02:21:18 +0000"
     },
     "done": false
@@ -908,6 +979,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-06 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "millenaire:recipes/mudbrick": {
+    "criteria": {
+      "has_item": "2024-12-06 22:58:22 +0000"
     },
     "done": true
   },

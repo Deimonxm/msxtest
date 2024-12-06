@@ -563,3 +563,359 @@
 [22:51:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [22:51:23] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [34, -24] in dimension 0 (overworld) while populating chunk [34, -23], causing cascading worldgen lag.
 [22:51:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:52:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> me matan
+[22:52:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC has made the advancement [Acquire Hardware]
+[22:52:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> no tengo nada
+[22:52:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[22:52:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> hay camas en las casas de los aldeanos
+[22:52:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> son de paja
+[22:53:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[22:53:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[22:53:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[22:53:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC was slain by Lion
+[22:53:57] [Server thread/INFO] [FML]: SRV Exception when finding JPS path:
+[22:53:57] [Server thread/INFO] [FML]: SRV org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 739/209.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:441)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2347)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+[22:53:57] [pool-2-thread-9/INFO] [FML]: SRV ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@36457f51: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@38828631
+[22:53:58] [pool-2-thread-13/INFO] [FML]: SRV ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@5330ca9f: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@38828631
+[22:53:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[22:53:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[22:53:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[22:53:59] [pool-2-thread-9/INFO] [FML]: SRV ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@327aed41: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@38828631
+[22:54:01] [pool-2-thread-13/INFO] [FML]: SRV ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@5df72e89: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@38828631
+[22:54:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[22:54:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[22:54:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> nooo
+[22:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> tremendo
+[22:54:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> si pegan fuerte jajaja
+[22:54:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[22:54:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[22:54:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> te jalo espera
+[22:54:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported JoelDMC to Deimonxm]
+[22:54:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> sssssssss
+[22:54:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> aaaaaaaa
+[22:55:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[22:55:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[22:55:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> esta infestado
+[22:56:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[22:56:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[22:57:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm withered away
+[22:57:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC has made the advancement [Getting an Upgrade]
+[22:57:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC has made the advancement [Isn't It Iron Pick]
+[22:57:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> XD
+[22:57:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> no ya valimos
+[22:58:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[22:58:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[22:58:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Take Aim]
+[22:58:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[22:59:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> no pues nos acorralaron
+[22:59:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> ya valimos maiser
+[22:59:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> salio peor
+[22:59:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> jajja
+[22:59:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[23:00:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> ya la libraste
+[23:00:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> uno menos
+[23:01:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC was killed by magic
+[23:01:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> nooo
+[23:01:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> xd
+[23:01:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported JoelDMC to Deimonxm]
+[23:02:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> consigamos comida
+[23:03:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[23:03:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> dungeon
+[23:03:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> en dondew
+[23:04:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> 594 72 241
+[23:04:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> ok
+[23:04:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> ocupo comida y mas recursos antes
+[23:05:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> aqui las conseguimos
+[23:05:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [41, -28] in dimension 0 (overworld) while populating chunk [43, -25], causing cascading worldgen lag.
+[23:05:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [41, -26] in dimension 0 (overworld) while populating chunk [43, -25], causing cascading worldgen lag.
+[23:05:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [41, -27] in dimension 0 (overworld) while populating chunk [43, -25], causing cascading worldgen lag.
+[23:05:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [42, -28] in dimension 0 (overworld) while populating chunk [43, -25], causing cascading worldgen lag.
+[23:05:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [42, -26] in dimension 0 (overworld) while populating chunk [43, -25], causing cascading worldgen lag.
+[23:05:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [42, -27] in dimension 0 (overworld) while populating chunk [43, -25], causing cascading worldgen lag.
+[23:05:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [43, -28] in dimension 0 (overworld) while populating chunk [43, -25], causing cascading worldgen lag.
+[23:05:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [43, -26] in dimension 0 (overworld) while populating chunk [43, -25], causing cascading worldgen lag.
+[23:05:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [43, -27] in dimension 0 (overworld) while populating chunk [43, -25], causing cascading worldgen lag.
+[23:05:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:26] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [44, -26] in dimension 0 (overworld) while populating chunk [45, -24], causing cascading worldgen lag.
+[23:05:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:26] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [45, -26] in dimension 0 (overworld) while populating chunk [45, -24], causing cascading worldgen lag.
+[23:05:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to 675.5, 92.5, -324.5]
+[23:05:26] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [37, -26] in dimension 0 (overworld) while populating chunk [40, -27], causing cascading worldgen lag.
+[23:05:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:26] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [37, -30] in dimension 0 (overworld) while populating chunk [40, -27], causing cascading worldgen lag.
+[23:05:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:26] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [37, -29] in dimension 0 (overworld) while populating chunk [40, -27], causing cascading worldgen lag.
+[23:05:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:26] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [37, -27] in dimension 0 (overworld) while populating chunk [40, -27], causing cascading worldgen lag.
+[23:05:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:26] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [37, -28] in dimension 0 (overworld) while populating chunk [40, -27], causing cascading worldgen lag.
+[23:05:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
+[23:05:27] [Server thread/INFO] [STDOUT]: [com.schnurritv.sexmod.t:b:-1]: generated @ 627 27 -445
+[23:05:27] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [45, -29] in dimension 0 (overworld) while populating chunk [46, -28], causing cascading worldgen lag.
+[23:05:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:27] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [46, -29] in dimension 0 (overworld) while populating chunk [46, -28], causing cascading worldgen lag.
+[23:05:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [33, -28] in dimension 0 (overworld) while populating chunk [32, -27], causing cascading worldgen lag.
+[23:05:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [32, -28] in dimension 0 (overworld) while populating chunk [32, -27], causing cascading worldgen lag.
+[23:05:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [47, -30] in dimension 0 (overworld) while populating chunk [48, -29], causing cascading worldgen lag.
+[23:05:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [48, -30] in dimension 0 (overworld) while populating chunk [48, -29], causing cascading worldgen lag.
+[23:05:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [49, -30] in dimension 0 (overworld) while populating chunk [48, -29], causing cascading worldgen lag.
+[23:05:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [49, -28] in dimension 0 (overworld) while populating chunk [48, -29], causing cascading worldgen lag.
+[23:05:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [49, -29] in dimension 0 (overworld) while populating chunk [48, -29], causing cascading worldgen lag.
+[23:05:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2640ms behind, skipping 52 tick(s)
+[23:06:06] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [23, -22] in dimension 0 (overworld) while populating chunk [24, -21], causing cascading worldgen lag.
+[23:06:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:06:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:desertscorpion but it was marked as removed already
+[23:06:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:06:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:06:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC has made the advancement [Stone Age]
+[23:06:29] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[23:06:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:06:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[23:06:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:06:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [17, -22] in dimension 0 (overworld) while populating chunk [18, -22], causing cascading worldgen lag.
+[23:06:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:06:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> como se pica la piedra xd
+[23:06:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:06:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:07:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> con un pico
+[23:07:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:07:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:07:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> tremendo
+[23:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> pero con cual
+[23:07:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> a ya lo vi xd
+[23:07:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:07:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:07:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> de madera o piedra
+[23:07:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:07:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:07:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> esque no me lo daba
+[23:07:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[23:08:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:08:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:08:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:08:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, -13] in dimension 0 (overworld) while populating chunk [8, -14], causing cascading worldgen lag.
+[23:08:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:08:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, -13] in dimension 0 (overworld) while populating chunk [8, -14], causing cascading worldgen lag.
+[23:08:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:08:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, -12] in dimension 0 (overworld) while populating chunk [8, -14], causing cascading worldgen lag.
+[23:08:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:09:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:09:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:09:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:09:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC was slain by Rat
+[23:09:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> me mato una pvta rata xd
+[23:10:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> si jajaja hay un buen de cosas que te matan
+[23:10:29] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (43, 16) should be (43, 15), Mehmet Yavuz/turk_bandit/2467697061521304241/691/65/257
+[23:10:29] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (43, 16) should be (43, 15), Ramazan Pekmez/turk_banditleader/8435263648953781224/690/68/256
+[23:10:29] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (43, 16) should be (43, 15), Furkan Gül/turk_bandit/113320308275449981/689/64/256
+[23:10:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity millenaire:genericvillager but it was marked as removed already
+[23:10:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity millenaire:genericvillager but it was marked as removed already
+[23:10:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity millenaire:genericvillager but it was marked as removed already
+[23:10:29] [Server thread/INFO] [FML]: SRV MAJOR: (bandittower_A0 at 690/68/256/0/0/1274080544/Soyguncu Kulesi/net.minecraft.world.WorldServer@2d116fd8): Finished ending raid. Records: 5
+[23:10:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoelDMC> perame ya vuelvo
+[23:10:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: JoelDMC lost connection: Disconnected
+[23:10:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC left the game
