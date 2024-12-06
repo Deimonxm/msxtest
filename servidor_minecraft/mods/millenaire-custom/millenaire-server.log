@@ -28,3 +28,18 @@
 8.1.2 05-12-2024 14:35:50 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
 8.1.2 05-12-2024 14:35:50 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
 8.1.2 05-12-2024 14:35:50 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.2 05-12-2024 15:12:15 Starting new session. Mods: examplemod 
+8.1.2 05-12-2024 15:12:24 MAJOR: null: Loading language: fr
+8.1.2 05-12-2024 15:12:24 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.2 05-12-2024 15:12:24 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.2 05-12-2024 15:12:24 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.2 05-12-2024 15:21:47 Starting new session. Mods: examplemod 
+8.1.2 05-12-2024 15:21:56 MAJOR: null: Loading language: fr
+8.1.2 05-12-2024 15:21:56 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.2 05-12-2024 15:21:56 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.2 05-12-2024 15:21:57 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.2 06-12-2024 01:51:04 Starting new session. Mods: examplemod 
+8.1.2 06-12-2024 01:51:17 MAJOR: null: Loading language: fr
+8.1.2 06-12-2024 01:51:17 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.2 06-12-2024 01:51:17 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.2 06-12-2024 01:51:18 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
