@@ -301,7 +301,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2024-12-06 02:17:00 +0000"
+      "cooked_mutton": "2024-12-06 02:17:00 +0000",
+      "rotten_flesh": "2024-12-06 02:34:22 +0000"
     },
     "done": false
   },
@@ -506,8 +507,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-05 15:12:52 +0000",
+      "beaches": "2024-12-06 02:30:45 +0000",
       "forest_hills": "2024-12-06 02:11:24 +0000",
       "plains": "2024-12-05 15:13:04 +0000",
+      "savanna": "2024-12-06 02:31:15 +0000",
       "river": "2024-12-06 01:59:24 +0000"
     },
     "done": false
