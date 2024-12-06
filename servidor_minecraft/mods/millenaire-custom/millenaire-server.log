@@ -43,3 +43,10 @@
 8.1.2 06-12-2024 01:51:17 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
 8.1.2 06-12-2024 01:51:17 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
 8.1.2 06-12-2024 01:51:18 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.2 06-12-2024 05:22:21 Starting new session. Mods: examplemod 
+8.1.2 06-12-2024 05:22:30 MAJOR: null: Loading language: fr
+8.1.2 06-12-2024 05:22:31 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.2 06-12-2024 05:22:31 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.2 06-12-2024 05:22:31 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.2 06-12-2024 05:31:32 ERROR: Ramazan Pekmez/turk_banditleader/8435263648953781224/632/67/147: Villager is far away from village. Despawning him.
+8.1.2 06-12-2024 05:31:32 ERROR: Furkan Gül/turk_bandit/113320308275449981/632/67/147: Villager is far away from village. Despawning him.
