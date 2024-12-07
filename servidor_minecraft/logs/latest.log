@@ -1203,3 +1203,6 @@
 [23:52:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [23:52:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [23:52:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[23:52:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:54:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: JoelDMC lost connection: Disconnected
+[23:54:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoelDMC left the game
