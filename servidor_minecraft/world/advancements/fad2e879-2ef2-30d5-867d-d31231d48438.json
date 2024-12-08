@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "amber": "2024-12-08 18:49:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-08 17:50:53 +0000"
@@ -683,6 +689,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "highland": "2024-12-08 18:54:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-08 17:50:58 +0000"
@@ -692,6 +704,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 18:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-08 18:47:26 +0000"
     },
     "done": true
   },
@@ -713,6 +731,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-08 18:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-08 18:51:41 +0000"
     },
     "done": true
   },
@@ -854,6 +878,12 @@
     },
     "done": true
   },
+  "millenaire:marcopolo": {
+    "criteria": {
+      "marcopolo": "2024-12-08 18:55:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2024-12-08 17:46:53 +0000"
@@ -934,7 +964,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "skeleton": "2024-12-08 18:25:43 +0000"
+      "skeleton": "2024-12-08 18:25:43 +0000",
+      "zombie": "2024-12-08 18:56:19 +0000",
+      "spider": "2024-12-08 18:56:20 +0000"
     },
     "done": false
   },
@@ -947,6 +979,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2024-12-08 18:03:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2024-12-08 18:47:26 +0000"
     },
     "done": true
   },
@@ -989,6 +1027,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-08 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2024-12-08 18:47:26 +0000"
     },
     "done": true
   },
