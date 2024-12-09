@@ -35,6 +35,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:03:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2024-12-09 17:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-09 17:05:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-05 16:12:11 +0000"
@@ -53,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:03:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-05 15:56:13 +0000"
@@ -68,6 +92,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2024-12-05 15:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-09 17:07:56 +0000"
     },
     "done": true
   },
@@ -155,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-12-09 17:09:42 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-05 15:43:06 +0000"
@@ -170,6 +206,18 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2024-12-05 15:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-09 17:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2024-12-09 17:05:44 +0000"
     },
     "done": true
   },
@@ -224,6 +272,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-05 16:12:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_anemone": {
+    "criteria": {
+      "has_flower": "2024-12-09 17:02:11 +0000"
     },
     "done": true
   },
@@ -317,6 +371,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "bop_flower_0": "2024-12-09 17:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2024-12-05 15:55:11 +0000"
@@ -338,6 +398,12 @@
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2024-12-05 15:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:03:55 +0000"
     },
     "done": true
   },
@@ -491,6 +557,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "tundra": "2024-12-09 17:06:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-05 15:57:10 +0000"
@@ -505,9 +577,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "taiga_cold_hills": "2024-12-09 17:03:22 +0000",
+      "ice_flats": "2024-12-09 17:06:17 +0000",
+      "frozen_river": "2024-12-09 17:06:16 +0000",
       "forest": "2024-12-05 15:43:40 +0000",
       "forest_hills": "2024-12-05 15:58:15 +0000",
       "plains": "2024-12-05 15:43:06 +0000",
+      "taiga_cold": "2024-12-09 17:02:55 +0000",
       "river": "2024-12-05 15:58:33 +0000"
     },
     "done": false
@@ -533,6 +609,18 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-05 16:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-09 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2024-12-09 17:03:13 +0000"
     },
     "done": true
   },
@@ -680,6 +768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:03:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2024-12-05 15:58:33 +0000"
@@ -706,9 +800,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/light_gray_dye_from_clover": {
+    "criteria": {
+      "has_flower": "2024-12-09 17:02:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-05 15:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:03:55 +0000"
     },
     "done": true
   },

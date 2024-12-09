@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:08:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/redwood_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-06 01:56:09 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 05:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:08:41 +0000"
     },
     "done": true
   },
@@ -218,6 +230,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2024-12-06 23:42:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_anemone": {
+    "criteria": {
+      "has_flower": "2024-12-09 17:08:42 +0000"
     },
     "done": true
   },
@@ -439,6 +457,7 @@
       "outback": "2024-12-06 05:35:22 +0000",
       "wasteland": "2024-12-06 05:42:30 +0000",
       "prairie": "2024-12-06 23:06:49 +0000",
+      "tundra": "2024-12-09 17:05:57 +0000",
       "gravel_beach": "2024-12-08 18:00:51 +0000"
     },
     "done": false
@@ -581,6 +600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:08:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-06 23:13:57 +0000"
@@ -633,6 +658,12 @@
   "aether_legacy:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2024-12-06 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:08:41 +0000"
     },
     "done": true
   },
@@ -991,6 +1022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:08:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-06 01:56:38 +0000"
@@ -1047,6 +1084,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2024-12-09 17:06:32 +0000",
+      "frozen_river": "2024-12-09 17:06:28 +0000",
       "taiga_cold_hills": "2024-12-09 16:55:09 +0000",
       "forest": "2024-12-05 15:12:52 +0000",
       "deep_ocean": "2024-12-08 17:58:37 +0000",
@@ -1167,6 +1206,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-06 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_gray_dye_from_clover": {
+    "criteria": {
+      "has_flower": "2024-12-09 17:08:41 +0000"
     },
     "done": true
   },
