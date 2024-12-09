@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/redwood_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:14:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2024-12-09 17:02:24 +0000"
@@ -530,6 +536,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:14:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-08 18:27:28 +0000"
@@ -874,6 +886,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:14:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2024-12-08 17:50:53 +0000"
@@ -1080,6 +1098,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:14:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-08 17:50:58 +0000"
@@ -1239,6 +1263,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-08 17:50:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 17:14:32 +0000"
     },
     "done": true
   }
