@@ -100,3 +100,4 @@
 8.1.2 09-12-2024 16:53:13 MAJOR: (bandittower_A0 at 690/68/256/0/0/2008326348/Soyguncu Kulesi/net.minecraft.world.WorldServer@479b504a): Finished ending raid. Records: 5
 8.1.2 09-12-2024 17:00:26 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@5988ddd0: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@574f2949
 8.1.2 09-12-2024 18:05:37 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@66a352b8: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@6864b1c4
+8.1.2 09-12-2024 18:12:07 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@3e592781: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@6864b1c4
