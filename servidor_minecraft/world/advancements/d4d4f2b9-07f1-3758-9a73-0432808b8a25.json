@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-09 17:55:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:04:07 +0000"
@@ -458,6 +464,7 @@
       "bog": "2024-12-08 18:01:17 +0000",
       "outback": "2024-12-06 05:35:22 +0000",
       "wasteland": "2024-12-06 05:42:30 +0000",
+      "redwood_forest": "2024-12-09 17:59:42 +0000",
       "prairie": "2024-12-06 23:06:49 +0000",
       "tundra": "2024-12-09 17:05:57 +0000",
       "gravel_beach": "2024-12-08 18:00:51 +0000"

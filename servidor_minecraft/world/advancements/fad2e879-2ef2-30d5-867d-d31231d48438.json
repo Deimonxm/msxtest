@@ -284,6 +284,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-08 18:41:09 +0000",
+      "potato": "2024-12-09 17:51:49 +0000",
+      "bread": "2024-12-09 17:59:35 +0000",
       "rotten_flesh": "2024-12-09 17:00:13 +0000"
     },
     "done": false
@@ -731,6 +733,12 @@
     },
     "done": true
   },
+  "millenaire:explorer": {
+    "criteria": {
+      "explorer": "2024-12-09 17:57:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2024-12-08 18:10:11 +0000"
@@ -1076,6 +1084,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 18:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2024-12-09 18:00:28 +0000"
     },
     "done": true
   },
