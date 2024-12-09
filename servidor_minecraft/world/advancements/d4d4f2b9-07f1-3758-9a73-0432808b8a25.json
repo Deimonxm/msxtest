@@ -738,6 +738,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2024-12-09 16:54:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-12-06 02:10:17 +0000"
@@ -1041,12 +1047,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "taiga_cold_hills": "2024-12-09 16:55:09 +0000",
       "forest": "2024-12-05 15:12:52 +0000",
       "deep_ocean": "2024-12-08 17:58:37 +0000",
       "beaches": "2024-12-06 02:30:45 +0000",
       "forest_hills": "2024-12-06 02:11:24 +0000",
       "plains": "2024-12-05 15:13:04 +0000",
       "savanna": "2024-12-06 02:31:15 +0000",
+      "taiga_cold": "2024-12-09 16:54:03 +0000",
       "ocean": "2024-12-08 17:58:19 +0000",
       "cold_beach": "2024-12-08 18:03:12 +0000",
       "river": "2024-12-06 01:59:24 +0000",

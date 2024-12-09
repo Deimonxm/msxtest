@@ -92,3 +92,10 @@
 8.1.2 08-12-2024 18:18:04 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@639e7142: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@269cfbf5
 8.1.2 08-12-2024 18:35:17 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@3cee4c77: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@269cfbf5
 8.1.2 08-12-2024 19:10:40 MAJOR: (bandittower_A0 at 690/68/256/0/0/1562462798/Soyguncu Kulesi/net.minecraft.world.WorldServer@49a6d84): Finished ending raid. Records: 5
+8.1.2 09-12-2024 16:50:54 Starting new session. Mods: examplemod 
+8.1.2 09-12-2024 16:51:04 MAJOR: null: Loading language: fr
+8.1.2 09-12-2024 16:51:04 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.2 09-12-2024 16:51:04 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.2 09-12-2024 16:51:05 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.2 09-12-2024 16:53:13 MAJOR: (bandittower_A0 at 690/68/256/0/0/2008326348/Soyguncu Kulesi/net.minecraft.world.WorldServer@479b504a): Finished ending raid. Records: 5
+8.1.2 09-12-2024 17:00:26 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@5988ddd0: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@574f2949
