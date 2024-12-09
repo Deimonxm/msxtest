@@ -1887,3 +1887,29 @@
 [17:59:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
 [17:59:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:bird that already exists with UUID 3f8324f4-d7df-4e11-a1af-7ecb8b722ed4
 [18:01:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> zzz
+[18:04:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[18:04:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[18:05:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[18:05:37] [pool-2-thread-58/INFO] [FML]: SRV ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@66a352b8: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@6864b1c4
+[18:06:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to 163.5, 69.5, 448.5]
+[18:06:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:bird that already exists with UUID 3f8324f4-d7df-4e11-a1af-7ecb8b722ed4
+[18:06:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[18:06:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[18:06:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[18:06:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[18:06:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[18:08:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[18:08:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Toxico9009> onde andas
+[18:09:00] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class gaia.entity.monster.EntityGaiaMinotaurus from class gaia.entity.monster.EntityGaiaOrc
+[18:09:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to -136.5, 69.5, 218.5]
+[18:09:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[18:09:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Toxico9009> onde andas
+[18:10:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[18:10:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[18:10:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[18:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to 100.5, 68.5, 101.5]
+[18:11:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Toxico9009> onde andas
+[18:11:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> buscaba comida y recursos para vender
+[18:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [A Seedy Place]
+[18:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Toxico9009> okas
+[18:12:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
