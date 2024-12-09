@@ -585,6 +585,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "cold_desert": "2024-12-09 17:26:06 +0000",
       "tundra": "2024-12-09 17:06:06 +0000"
     },
     "done": false

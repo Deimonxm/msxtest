@@ -453,6 +453,7 @@
     "criteria": {
       "shrubland": "2024-12-06 23:08:40 +0000",
       "steppe": "2024-12-06 23:05:27 +0000",
+      "cold_desert": "2024-12-09 17:21:15 +0000",
       "coral_reef": "2024-12-08 18:02:50 +0000",
       "bog": "2024-12-08 18:01:17 +0000",
       "outback": "2024-12-06 05:35:22 +0000",
@@ -1077,6 +1078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-12-09 17:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2024-12-06 23:42:09 +0000"
@@ -1225,6 +1232,12 @@
   "biomesoplenty:recipes/misc/light_gray_dye_from_clover": {
     "criteria": {
       "has_flower": "2024-12-09 17:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2024-12-09 17:35:21 +0000"
     },
     "done": true
   },
