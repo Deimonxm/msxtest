@@ -489,3 +489,27 @@
 [00:29:13] [Server thread/INFO] [FML]: Unloading dimension 7
 [00:29:58] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 8971
 [00:34:28] [Server thread/INFO] [FML]: SRV MAJOR: (bandittower_A0 at 690/68/256/0/0/451175977/Soyguncu Kulesi/net.minecraft.world.WorldServer@5e025066): Finished ending raid. Records: 5
+[00:44:15] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[00:44:15] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,jei@4.16.1.1012,damageindicatorsmod@1.0,botania@r1.10-364,horror_elements_mod@1.0.0,betternether@0.1.8.6,roguelike@2.4.6,mocreatures@12.4.5,sexmod@1.9.0,patchouli@1.0-23.6,xaerominimap@24.5.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.0,FML@8.0.99.99,mutantbeasts@1.12.2-1.0.2,atum@2.0.20,caves@1.0.0,iceologer@1.5.3,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.2,chisel@MC1.12.2-1.0.2.45,xaerominimap_core@1.12.2-1.0,waila@1.8.26,aether_legacy@1.5.3.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,ruins@17.2,twilightforest@3.11.1021,geckolib3@3.0.30
+[00:44:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:44:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Deimonxm[/127.238.100.251:41213] logged in with entity id 334 at (71.91234142667359, 50.0, 486.66918050935374)
+[00:44:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm joined the game
+[00:44:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:bird that already exists with UUID 3f8324f4-d7df-4e11-a1af-7ecb8b722ed4
+[00:44:17] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Deimonxm'/334, l='world', x=71.91, y=50.00, z=486.67] connected. Sending ping
+[00:44:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[00:44:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[00:44:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[00:45:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[00:45:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[00:45:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[00:45:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[00:46:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[00:46:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[00:47:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Deimonxm's game mode to Spectator Mode
+[00:48:37] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[00:48:37] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,jei@4.16.1.1012,damageindicatorsmod@1.0,botania@r1.10-364,horror_elements_mod@1.0.0,betternether@0.1.8.6,roguelike@2.4.6,mocreatures@12.4.5,sexmod@1.9.0,patchouli@1.0-23.6,xaerominimap@24.5.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.0,FML@8.0.99.99,mutantbeasts@1.12.2-1.0.2,atum@2.0.20,caves@1.0.0,iceologer@1.5.3,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.2,chisel@MC1.12.2-1.0.2.45,xaerominimap_core@1.12.2-1.0,waila@1.8.26,aether_legacy@1.5.3.2,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,ruins@17.2,twilightforest@3.11.1021,geckolib3@3.0.30
+[00:48:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:48:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kabuki230MC[/127.65.92.102:59589] logged in with entity id 2329 at (-7.5, 62.0, 260.5)
+[00:48:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kabuki230MC joined the game
+[00:48:40] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kabuki230MC'/2329, l='world', x=-7.50, y=62.00, z=260.50] connected. Sending ping
+[00:48:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
