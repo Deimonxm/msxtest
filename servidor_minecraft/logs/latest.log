@@ -2718,3 +2718,183 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/Locale
 [02:00:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
 [02:00:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
 [02:00:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:00:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:00:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:00:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:00:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:00:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:01:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:01:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:01:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:01:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:01:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:02:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:02:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:02:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:03:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:03:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:03:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:03:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:03:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:03:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:03:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FranPerry hit the ground too hard
+[02:03:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:03:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:03:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:04:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:05:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:05:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:05:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:05:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:06:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:06:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:06:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:06:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:06:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:06:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:06:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:06:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:06:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:06:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:06:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:07:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:07:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:07:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[02:07:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:07:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FranPerry lost connection: Disconnected
+[02:08:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FranPerry left the game
+[02:08:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:08:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:09:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:09:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:09:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kabuki230MC lost connection: Disconnected
+[02:09:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kabuki230MC left the game
+[02:09:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:10:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm lost connection: Disconnected
+[02:10:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm left the game
