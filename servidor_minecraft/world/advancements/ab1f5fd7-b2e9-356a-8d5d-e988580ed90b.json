@@ -321,7 +321,8 @@
     "criteria": {
       "cooked_mutton": "2024-12-06 02:16:03 +0000",
       "potato": "2024-12-10 01:25:02 +0000",
-      "bread": "2024-12-06 02:04:19 +0000"
+      "bread": "2024-12-06 02:04:19 +0000",
+      "carrot": "2024-12-10 01:32:37 +0000"
     },
     "done": false
   },
@@ -696,6 +697,12 @@
     },
     "done": true
   },
+  "millenaire:marcopolo": {
+    "criteria": {
+      "marcopolo": "2024-12-10 01:35:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-06 02:18:58 +0000"
@@ -752,7 +759,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie": "2024-12-06 02:26:07 +0000"
+      "skeleton": "2024-12-10 01:36:42 +0000",
+      "zombie": "2024-12-06 02:26:07 +0000",
+      "witch": "2024-12-10 01:36:05 +0000",
+      "spider": "2024-12-10 01:35:28 +0000"
     },
     "done": false
   },
