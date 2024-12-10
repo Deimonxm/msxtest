@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "ab1f5fd7-b2e9-356a-8d5d-e988580ed90b",
+    "name": "EnNis_Toxic27",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "8225dea9-79cb-3615-b42d-0d90322e3567",
     "name": "Kabuki230MC",
     "level": 4,
