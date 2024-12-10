@@ -2898,3 +2898,12 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/Locale
 [02:09:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
 [02:10:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm lost connection: Disconnected
 [02:10:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm left the game
+[02:12:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[02:12:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:12:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:12:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:12:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[02:12:30] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:12:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:12:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:12:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
