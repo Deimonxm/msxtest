@@ -591,3 +591,145 @@
 [00:58:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
 [00:59:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
 [00:59:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[00:59:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[00:59:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[00:59:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[00:59:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[00:59:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-19, -11] in dimension 0 (overworld) while populating chunk [-17, -11], causing cascading worldgen lag.
+[00:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:59:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-19, -12] in dimension 0 (overworld) while populating chunk [-17, -11], causing cascading worldgen lag.
+[00:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:59:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-19, -13] in dimension 0 (overworld) while populating chunk [-17, -11], causing cascading worldgen lag.
+[00:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:59:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-18, -12] in dimension 0 (overworld) while populating chunk [-17, -11], causing cascading worldgen lag.
+[00:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:59:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-18, -13] in dimension 0 (overworld) while populating chunk [-17, -11], causing cascading worldgen lag.
+[00:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:59:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-17, -12] in dimension 0 (overworld) while populating chunk [-17, -11], causing cascading worldgen lag.
+[00:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:59:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-17, -13] in dimension 0 (overworld) while populating chunk [-17, -11], causing cascading worldgen lag.
+[00:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:59:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[01:00:00] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-5, -16] in dimension 0 (overworld) while populating chunk [-5, -15], causing cascading worldgen lag.
+[01:00:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:00:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kabuki230MC lost connection: Disconnected
+[01:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kabuki230MC left the game
+[01:03:20] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:03:20] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,jei@4.16.1.1012,damageindicatorsmod@1.0,botania@r1.10-364,horror_elements_mod@1.0.0,betternether@0.1.8.6,roguelike@2.4.6,mocreatures@12.4.5,sexmod@1.9.0,patchouli@1.0-23.6,xaerominimap@24.5.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.0,FML@8.0.99.99,mutantbeasts@1.12.2-1.0.2,atum@2.0.20,caves@1.0.0,iceologer@1.5.3,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.2,chisel@MC1.12.2-1.0.2.45,xaerominimap_core@1.12.2-1.0,waila@1.8.26,aether_legacy@1.5.3.2,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,ruins@17.2,twilightforest@3.11.1021,geckolib3@3.0.30
+[01:03:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:03:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kabuki230MC[/127.65.92.102:48621] logged in with entity id 21651 at (-218.30000001192093, 103.0, -90.31148073285945)
+[01:03:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kabuki230MC joined the game
+[01:03:22] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kabuki230MC'/21651, l='world', x=-218.30, y=103.00, z=-90.31] connected. Sending ping
+[01:03:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kabuki230MC was killed by magic
+[01:03:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[01:03:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[01:03:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[01:03:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Kabuki230MC to Deimonxm]
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[01:04:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[01:04:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[01:04:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Deimonxm's game mode to Survival Mode
+[01:04:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[01:04:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:04:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:05:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:05:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:05:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kabuki230MC was slain by Purple Scorpion
+[01:06:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:06:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:07:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:07:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:08:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:08:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:08:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:08:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[01:08:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
