@@ -2611,3 +2611,4 @@ geckolib3: Requires version 3.0.30 but mod is not found on client.
 [02:10:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
 [02:11:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [The Quest]
 [02:12:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Hot Stuff]

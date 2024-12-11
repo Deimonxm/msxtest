@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 02:17:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 01:31:27 +0000"
@@ -725,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-11 02:14:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-06 02:17:00 +0000"
@@ -734,6 +746,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stonebrick": "2024-12-06 02:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-11 02:13:53 +0000"
     },
     "done": true
   },
@@ -833,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-11 02:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-09 17:08:41 +0000"
@@ -880,6 +904,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-06 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2024-12-11 02:17:30 +0000"
     },
     "done": true
   },
@@ -1051,6 +1081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2024-12-11 02:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2024-12-06 23:42:09 +0000"
@@ -1090,6 +1126,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-06 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2024-12-11 02:13:37 +0000"
     },
     "done": true
   },
@@ -1436,6 +1478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-11 02:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-12-06 02:10:17 +0000"
@@ -1445,6 +1493,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2024-12-06 05:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2024-12-11 02:13:53 +0000"
     },
     "done": true
   },
@@ -1469,6 +1523,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-06 23:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-11 02:13:53 +0000"
     },
     "done": true
   },
@@ -1618,6 +1678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2024-12-11 02:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-06 01:52:49 +0000"
@@ -1711,6 +1777,12 @@
   "biomesoplenty:recipes/tools/empty_jar": {
     "criteria": {
       "has_glass": "2024-12-11 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-11 02:13:53 +0000"
     },
     "done": true
   },
