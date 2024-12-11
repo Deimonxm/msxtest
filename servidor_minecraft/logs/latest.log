@@ -2890,3 +2890,19 @@ geckolib3: Requires version 3.0.30 but mod is not found on client.
 [03:01:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
 [03:03:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
 [03:03:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Amis pour la vie]
+[03:06:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[03:09:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[03:09:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[03:09:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[03:10:27] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class gaia.entity.monster.EntityGaiaMinotaurus from class gaia.entity.monster.EntityGaiaOrc
+[03:12:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm lost connection: Disconnected
+[03:12:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm left the game
+[03:13:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[03:13:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:13:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:13:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:13:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:13:57] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:13:57] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:13:57] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:13:57] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
