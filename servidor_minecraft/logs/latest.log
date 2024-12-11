@@ -2612,3 +2612,14 @@ geckolib3: Requires version 3.0.30 but mod is not found on client.
 [02:11:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [The Quest]
 [02:12:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
 [02:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Hot Stuff]
+[02:25:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Ice Bucket Challenge]
+[02:27:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Block placed]
+[02:27:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:28:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: 508 blocks filled]
+[02:29:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: 528 blocks filled]
+[02:30:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: 528 blocks filled]
+[02:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: 520 blocks filled]
+[02:31:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: 528 blocks filled]
+[02:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: 528 blocks filled]
+[02:34:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:34:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
