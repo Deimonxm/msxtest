@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "millenaire:rep_norman": {
+    "criteria": {
+      "rep_norman": "2024-12-11 03:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:04:07 +0000"

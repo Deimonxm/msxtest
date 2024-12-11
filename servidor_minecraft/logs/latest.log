@@ -2880,3 +2880,13 @@ geckolib3: Requires version 3.0.30 but mod is not found on client.
 [02:51:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
 [02:52:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
 [02:53:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Set own game mode to Spectator Mode]
+[02:55:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Set own game mode to Creative Mode]
+[03:00:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to 165.5, 69.5, 447.5]
+[03:00:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[03:00:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[03:00:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[03:00:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[03:01:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[03:01:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[03:03:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:purplegranitescorpion but it was marked as removed already
+[03:03:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Amis pour la vie]
