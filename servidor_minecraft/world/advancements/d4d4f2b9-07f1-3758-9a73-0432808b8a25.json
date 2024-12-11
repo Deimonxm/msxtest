@@ -803,6 +803,12 @@
     },
     "done": true
   },
+  "millenaire:thequest": {
+    "criteria": {
+      "thequest": "2024-12-11 02:11:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_planks": "2024-12-06 01:56:09 +0000"
@@ -1186,6 +1192,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-05 15:12:52 +0000"
+    },
+    "done": true
+  },
+  "millenaire:maitreapenser": {
+    "criteria": {
+      "maitreapenser": "2024-12-11 02:10:25 +0000"
     },
     "done": true
   },
