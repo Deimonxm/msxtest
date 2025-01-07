@@ -1,4 +1,7 @@
 villager:mayan_lonemayanshaman
+villager:byzantines_oldshepherd_byzantine
 villager:mayan_lonemayanshamanwife
 village:mayan_lonemayanshaman
+village:byzantines_lonesheepfarm_x
 building:mayan_lonemayanshaman
+building:byzantines_oldsheepfarm

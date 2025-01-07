@@ -10,18 +10,22 @@
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
 -779 43 10 -775 45 14 OceanGoldOreOutcrop.tml
+-684 64 103 -679 71 112 OilPump.tml
 -624 48 -63 -619 52 -46 Ship.tml
 -568 34 154 -564 36 158 OceanEmeraldOreOutcrop.tml
 -550 50 35 -496 58 42 Ship5.tml
 -528 67 -86 -520 112 -74 PhoneTower.tml
 -517 67 -189 -496 105 -166 Locator.tml
+-516 63 -466 -510 70 -460 UndergroundShelter.tml
 -449 61 -308 -447 74 -304 Pole.tml
 -384 64 -96 -373 100 -75 LaunchPlatform.tml
 -382 67 -327 -373 72 -316 ThrownHouse3.tml
 -375 65 -194 -366 72 -189 OilPump.tml
 -369 67 18 -365 80 20 Pole2.tml
 -285 63 2 -277 79 9 MicroHPP.tml
+-271 64 -412 -270 66 -411 BuriedChest.tml
 -254 66 -202 -242 76 -191 Building5.tml
+-251 67 -514 -231 100 -488 AdvancedUndergroundHouse.tml
 -210 69 -335 -197 74 -326 Building7.tml
 -148 64 -102 -137 85 -91 Locator3.tml
 -141 52 2 -132 63 38 Ship2.tml

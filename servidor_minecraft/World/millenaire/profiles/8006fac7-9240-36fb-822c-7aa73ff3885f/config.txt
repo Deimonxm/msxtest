@@ -1,2 +1,4 @@
 player_name=lapro9102
 donation_mode=false
+culture_reputation=byzantines,-3
+village_reputations=-405/67/-336,-30
