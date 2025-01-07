@@ -2371,3 +2371,12 @@
 [02:14:34] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Chamo1003'/36420, l='World', x=-187.36, y=66.68, z=63.36] connected. Sending ping
 [02:14:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chamo1003 lost connection: Timed out
 [02:14:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 left the game
+[02:37:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[02:37:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:37:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:37:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:37:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[02:37:37] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:37:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:37:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:37:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
