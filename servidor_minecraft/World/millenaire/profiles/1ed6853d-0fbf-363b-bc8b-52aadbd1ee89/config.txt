@@ -1,0 +1,2 @@
+player_name=Chamo1003
+donation_mode=false

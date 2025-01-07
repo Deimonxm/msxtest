@@ -1,0 +1,2 @@
+player_name=lapro9102
+donation_mode=false

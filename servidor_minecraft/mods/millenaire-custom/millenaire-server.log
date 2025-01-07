@@ -119,3 +119,8 @@
 8.1.2 06-01-2025 23:58:27 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
 8.1.2 06-01-2025 23:58:27 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
 8.1.2 06-01-2025 23:58:27 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.2 07-01-2025 01:14:02 Starting new session. Mods: examplemod 
+8.1.2 07-01-2025 01:14:16 MAJOR: null: Loading language: fr
+8.1.2 07-01-2025 01:14:16 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.2 07-01-2025 01:14:16 ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.2 07-01-2025 01:14:16 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning

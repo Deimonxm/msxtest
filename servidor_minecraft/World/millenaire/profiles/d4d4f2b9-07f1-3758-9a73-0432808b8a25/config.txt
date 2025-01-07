@@ -1,0 +1,2 @@
+player_name=Deimonxm
+donation_mode=false

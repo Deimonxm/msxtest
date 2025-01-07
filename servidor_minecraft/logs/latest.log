@@ -1,672 +1,542 @@
-[00:01:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Sky of Beginning]
-[00:02:27] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[00:02:27] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,jei@4.16.1.1012,damageindicatorsmod@1.0,botania@r1.10-364,horror_elements_mod@1.0.0,betternether@0.1.8.6,roguelike@2.4.6,mocreatures@12.4.5,sexmod@1.9.0,patchouli@1.0-23.6,xaerominimap@24.5.0,mcp@9.42,epicfight@1.12.2-2.2.8,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.0,FML@8.0.99.99,mutantbeasts@1.12.2-1.0.2,atum@2.0.20,caves@1.0.0,iceologer@1.5.3,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.2,chisel@MC1.12.2-1.0.2.45,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,aether_legacy@1.5.3.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,ruins@17.2,twilightforest@3.11.1021,geckolib3@3.0.30
-[00:02:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:02:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chamo1003[/127.79.188.167:33955] logged in with entity id 3930 at (-182.5, 71.0, 41.5)
-[00:02:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 joined the game
-[00:02:29] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Chamo1003'/3930, l='World', x=-182.50, y=71.00, z=41.50] connected. Sending ping
-[00:03:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> como hiciste esop?
-[00:03:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> con la r
-[00:04:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> activa el modo pelea y con dos veces shift ruedas
-[00:04:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> ahora si
-[00:04:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Stone Age]
-[00:05:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> con r otra vez se desactiva
-[00:05:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> sisaz ya lo active
-[00:06:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Getting an Upgrade]
-[00:07:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:08:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> alla hay alg
-[00:08:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:08:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> sisaz
-[00:08:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> vamos?
-[00:09:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:09:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:09:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> crees que lleguemos ves que se pone dificil
-[00:09:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> el q tenga miedo a morir q no nazca
-[00:09:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> activa modo combate y nos lanzamos
-[00:09:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> donde lo activo?
-[00:10:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> con r
-[00:10:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> sisaz
-[00:10:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> tengo lo de lansarne con la r
-[00:10:27] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-31, 7] in dimension 0 (overworld) while populating chunk [-30, 7], causing cascading worldgen lag.
-[00:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:27] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-32, 7] in dimension 0 (overworld) while populating chunk [-31, 7], causing cascading worldgen lag.
-[00:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:27] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-33, 7] in dimension 0 (overworld) while populating chunk [-32, 7], causing cascading worldgen lag.
-[00:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:27] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-31, 8] in dimension 0 (overworld) while populating chunk [-32, 7], causing cascading worldgen lag.
-[00:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:27] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-32, 8] in dimension 0 (overworld) while populating chunk [-32, 7], causing cascading worldgen lag.
-[00:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:27] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-33, 8] in dimension 0 (overworld) while populating chunk [-32, 8], causing cascading worldgen lag.
-[00:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:27] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-31, 6] in dimension 0 (overworld) while populating chunk [-32, 7], causing cascading worldgen lag.
-[00:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:27] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-32, 6] in dimension 0 (overworld) while populating chunk [-32, 7], causing cascading worldgen lag.
-[00:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:27] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-33, 6] in dimension 0 (overworld) while populating chunk [-32, 6], causing cascading worldgen lag.
-[00:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:27] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-32, 5] in dimension 0 (overworld) while populating chunk [-33, 6], causing cascading worldgen lag.
-[00:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:27] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-31, 5] in dimension 0 (overworld) while populating chunk [-32, 7], causing cascading worldgen lag.
-[00:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:27] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-32, 5] in dimension 0 (overworld) while populating chunk [-32, 7], causing cascading worldgen lag.
-[00:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:32] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-32, 4] in dimension 0 (overworld) while populating chunk [-31, 4], causing cascading worldgen lag.
-[00:10:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-32, -12] in dimension 0 (overworld) while populating chunk [-31, -11], causing cascading worldgen lag.
-[00:10:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-33, -12] in dimension 0 (overworld) while populating chunk [-32, -12], causing cascading worldgen lag.
-[00:10:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Explorer]
-[00:10:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was slain by Werecat
-[00:11:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was killed by magic
-[00:11:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 was slain by Minotaurus
-[00:11:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> ya valimos XD
-[00:12:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> me cogio crafteando
-[00:12:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:12:52] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-34, 3] in dimension 0 (overworld) while populating chunk [-33, 3], causing cascading worldgen lag.
-[00:12:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:52] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-35, 3] in dimension 0 (overworld) while populating chunk [-34, 3], causing cascading worldgen lag.
-[00:12:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:52] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-34, 2] in dimension 0 (overworld) while populating chunk [-35, 3], causing cascading worldgen lag.
-[00:12:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:52] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-33, 5] in dimension 0 (overworld) while populating chunk [-33, 3], causing cascading worldgen lag.
-[00:12:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:52] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-33, 4] in dimension 0 (overworld) while populating chunk [-33, 3], causing cascading worldgen lag.
-[00:12:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:52] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-34, 4] in dimension 0 (overworld) while populating chunk [-33, 3], causing cascading worldgen lag.
-[00:12:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-34, 7] in dimension 0 (overworld) while populating chunk [-34, 6], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-34, 9] in dimension 0 (overworld) while populating chunk [-34, 8], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-35, 8] in dimension 0 (overworld) while populating chunk [-34, 9], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-35, 9] in dimension 0 (overworld) while populating chunk [-35, 8], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, 8] in dimension 0 (overworld) while populating chunk [-35, 9], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-37, 7] in dimension 0 (overworld) while populating chunk [-36, 8], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, 8] in dimension 0 (overworld) while populating chunk [-37, 7], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, 9] in dimension 0 (overworld) while populating chunk [-37, 8], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, 10] in dimension 0 (overworld) while populating chunk [-36, 9], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, 9] in dimension 0 (overworld) while populating chunk [-36, 10], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, 10] in dimension 0 (overworld) while populating chunk [-36, 10], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-35, 10] in dimension 0 (overworld) while populating chunk [-36, 10], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-38, 8] in dimension 0 (overworld) while populating chunk [-37, 8], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-38, 9] in dimension 0 (overworld) while populating chunk [-38, 8], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-38, 7] in dimension 0 (overworld) while populating chunk [-38, 8], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-35, 7] in dimension 0 (overworld) while populating chunk [-37, 7], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, 7] in dimension 0 (overworld) while populating chunk [-37, 7], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-35, 6] in dimension 0 (overworld) while populating chunk [-36, 7], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, 6] in dimension 0 (overworld) while populating chunk [-37, 7], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, 6] in dimension 0 (overworld) while populating chunk [-36, 6], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-38, 6] in dimension 0 (overworld) while populating chunk [-37, 6], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-39, 6] in dimension 0 (overworld) while populating chunk [-38, 6], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:56] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-39, 5] in dimension 0 (overworld) while populating chunk [-39, 6], causing cascading worldgen lag.
-[00:12:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:12:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:12:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 was killed by magic
-[00:13:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:13:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:13:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> ontas
-[00:13:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 was killed by magic
-[00:13:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:14:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:14:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 fell from a high place
-[00:15:43] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-36, 4] in dimension 0 (overworld) while populating chunk [-35, 5], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, 3] in dimension 0 (overworld) while populating chunk [-36, 4], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, 2] in dimension 0 (overworld) while populating chunk [-36, 3], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, 1] in dimension 0 (overworld) while populating chunk [-36, 2], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, 0] in dimension 0 (overworld) while populating chunk [-36, 1], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, -1] in dimension 0 (overworld) while populating chunk [-36, 0], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, 0] in dimension 0 (overworld) while populating chunk [-36, 1], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-38, 0] in dimension 0 (overworld) while populating chunk [-37, 0], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, -1] in dimension 0 (overworld) while populating chunk [-38, 0], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-38, -1] in dimension 0 (overworld) while populating chunk [-38, 0], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-39, -1] in dimension 0 (overworld) while populating chunk [-38, -1], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-40, -1] in dimension 0 (overworld) while populating chunk [-39, -1], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-39, 0] in dimension 0 (overworld) while populating chunk [-40, -1], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-40, -2] in dimension 0 (overworld) while populating chunk [-39, -1], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-40, -3] in dimension 0 (overworld) while populating chunk [-39, -1], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-40, -4] in dimension 0 (overworld) while populating chunk [-40, -3], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-41, -4] in dimension 0 (overworld) while populating chunk [-40, -4], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, -5] in dimension 0 (overworld) while populating chunk [-41, -4], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-41, -6] in dimension 0 (overworld) while populating chunk [-41, -5], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-41, -7] in dimension 0 (overworld) while populating chunk [-41, -5], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, -7] in dimension 0 (overworld) while populating chunk [-41, -7], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -7] in dimension 0 (overworld) while populating chunk [-42, -7], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, -8] in dimension 0 (overworld) while populating chunk [-41, -7], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, -8] in dimension 0 (overworld) while populating chunk [-41, -8], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -8] in dimension 0 (overworld) while populating chunk [-42, -8], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -9] in dimension 0 (overworld) while populating chunk [-43, -8], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, -9] in dimension 0 (overworld) while populating chunk [-43, -9], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, -10] in dimension 0 (overworld) while populating chunk [-42, -9], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, -11] in dimension 0 (overworld) while populating chunk [-42, -10], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, -12] in dimension 0 (overworld) while populating chunk [-42, -11], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -12] in dimension 0 (overworld) while populating chunk [-42, -12], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -10] in dimension 0 (overworld) while populating chunk [-42, -11], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -10] in dimension 0 (overworld) while populating chunk [-42, -11], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -11] in dimension 0 (overworld) while populating chunk [-42, -11], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -11] in dimension 0 (overworld) while populating chunk [-43, -11], causing cascading worldgen lag.
-[00:15:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -12] in dimension 0 (overworld) while populating chunk [-44, -11], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -13] in dimension 0 (overworld) while populating chunk [-44, -12], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -13] in dimension 0 (overworld) while populating chunk [-44, -12], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -11] in dimension 0 (overworld) while populating chunk [-42, -11], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -8] in dimension 0 (overworld) while populating chunk [-43, -8], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -7] in dimension 0 (overworld) while populating chunk [-44, -8], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-45, -7] in dimension 0 (overworld) while populating chunk [-44, -7], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-45, -8] in dimension 0 (overworld) while populating chunk [-45, -7], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-46, -8] in dimension 0 (overworld) while populating chunk [-45, -8], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-47, -8] in dimension 0 (overworld) while populating chunk [-46, -8], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-47, -9] in dimension 0 (overworld) while populating chunk [-46, -8], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-45, -9] in dimension 0 (overworld) while populating chunk [-46, -8], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-46, -9] in dimension 0 (overworld) while populating chunk [-46, -8], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-46, -7] in dimension 0 (overworld) while populating chunk [-45, -7], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-47, -7] in dimension 0 (overworld) while populating chunk [-46, -7], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -9] in dimension 0 (overworld) while populating chunk [-43, -8], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, -6] in dimension 0 (overworld) while populating chunk [-41, -5], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -6] in dimension 0 (overworld) while populating chunk [-42, -6], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-40, -5] in dimension 0 (overworld) while populating chunk [-40, -4], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-40, -6] in dimension 0 (overworld) while populating chunk [-40, -4], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-38, -2] in dimension 0 (overworld) while populating chunk [-40, -3], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-38, -3] in dimension 0 (overworld) while populating chunk [-38, -2], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, -2] in dimension 0 (overworld) while populating chunk [-38, -3], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, -2] in dimension 0 (overworld) while populating chunk [-38, -3], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, -3] in dimension 0 (overworld) while populating chunk [-38, -3], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, -3] in dimension 0 (overworld) while populating chunk [-38, -3], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, -4] in dimension 0 (overworld) while populating chunk [-37, -3], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, -5] in dimension 0 (overworld) while populating chunk [-36, -4], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, -5] in dimension 0 (overworld) while populating chunk [-36, -5], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, -4] in dimension 0 (overworld) while populating chunk [-37, -3], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-38, -4] in dimension 0 (overworld) while populating chunk [-37, -4], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-39, -4] in dimension 0 (overworld) while populating chunk [-37, -4], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-38, -5] in dimension 0 (overworld) while populating chunk [-39, -4], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-39, -5] in dimension 0 (overworld) while populating chunk [-39, -4], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-39, -3] in dimension 0 (overworld) while populating chunk [-38, -2], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-39, -2] in dimension 0 (overworld) while populating chunk [-40, -3], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, -3] in dimension 0 (overworld) while populating chunk [-40, -3], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, 1] in dimension 0 (overworld) while populating chunk [-37, 0], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-38, 1] in dimension 0 (overworld) while populating chunk [-37, 0], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, 2] in dimension 0 (overworld) while populating chunk [-38, 1], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-38, 2] in dimension 0 (overworld) while populating chunk [-38, 1], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, 4] in dimension 0 (overworld) while populating chunk [-36, 4], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-37, 3] in dimension 0 (overworld) while populating chunk [-36, 4], causing cascading worldgen lag.
-[00:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:15:45] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-36, 5] in dimension 0 (overworld) while populating chunk [-35, 5], causing cascading worldgen lag.
-[00:15:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:16:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Monster Hunter]
-[00:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> tengo tus cosas
-[00:17:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> hey
-[00:17:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> even
-[00:19:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was slain by Black Bear
-[00:19:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped deimonxm
-[00:20:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> ven a la casa
-[00:20:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:20:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:20:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to -355.5, 68.5, -9.5]
-[00:21:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 was slain by Mandragora
-[00:22:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:24:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 was slain by Black Bear
-[00:26:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> uju
-[00:26:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> pega fuerte jajajaja
-[00:26:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> sisazzzz
-[00:26:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> JAJAJA
-[00:26:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chamo1003> a minar un poco
-[00:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Deimonxm> nesecitamos comida
-[00:27:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:28:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:28:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:28:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:29:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:29:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:29:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:29:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:29:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:29:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:29:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:29:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:30:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:30:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:30:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:30:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:30:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:30:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:30:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:30:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:31:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:31:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:31:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:31:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:31:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:31:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:31:41] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-40, -10] in dimension 0 (overworld) while populating chunk [-39, -10], causing cascading worldgen lag.
-[00:31:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-39, -9] in dimension 0 (overworld) while populating chunk [-40, -10], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-39, 2] in dimension 0 (overworld) while populating chunk [-39, 1], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-40, 4] in dimension 0 (overworld) while populating chunk [-39, 3], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-40, 3] in dimension 0 (overworld) while populating chunk [-40, 4], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-40, 2] in dimension 0 (overworld) while populating chunk [-40, 4], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-40, 1] in dimension 0 (overworld) while populating chunk [-40, 2], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-40, 0] in dimension 0 (overworld) while populating chunk [-40, 1], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-40, -1] in dimension 0 (overworld) while populating chunk [-40, 0], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, 3] in dimension 0 (overworld) while populating chunk [-40, 4], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, 4] in dimension 0 (overworld) while populating chunk [-41, 3], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, 2] in dimension 0 (overworld) while populating chunk [-41, 3], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, 3] in dimension 0 (overworld) while populating chunk [-41, 2], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, 1] in dimension 0 (overworld) while populating chunk [-41, 3], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, 2] in dimension 0 (overworld) while populating chunk [-41, 1], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-43, 1] in dimension 0 (overworld) while populating chunk [-42, 2], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-43, 3] in dimension 0 (overworld) while populating chunk [-42, 2], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, 3] in dimension 0 (overworld) while populating chunk [-43, 3], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, 2] in dimension 0 (overworld) while populating chunk [-44, 3], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-45, 3] in dimension 0 (overworld) while populating chunk [-44, 2], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-45, 2] in dimension 0 (overworld) while populating chunk [-44, 2], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-45, 1] in dimension 0 (overworld) while populating chunk [-45, 2], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-46, 2] in dimension 0 (overworld) while populating chunk [-45, 2], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-46, 1] in dimension 0 (overworld) while populating chunk [-46, 2], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-45, 0] in dimension 0 (overworld) while populating chunk [-46, 1], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-45, -1] in dimension 0 (overworld) while populating chunk [-45, 0], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-46, 0] in dimension 0 (overworld) while populating chunk [-45, 0], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-46, -1] in dimension 0 (overworld) while populating chunk [-46, 0], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-46, -2] in dimension 0 (overworld) while populating chunk [-46, -1], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-46, -3] in dimension 0 (overworld) while populating chunk [-46, -1], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-47, -2] in dimension 0 (overworld) while populating chunk [-46, -3], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-47, -1] in dimension 0 (overworld) while populating chunk [-47, -2], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-47, -3] in dimension 0 (overworld) while populating chunk [-46, -3], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-48, -3] in dimension 0 (overworld) while populating chunk [-47, -3], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-47, -4] in dimension 0 (overworld) while populating chunk [-47, -3], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-46, -4] in dimension 0 (overworld) while populating chunk [-46, -3], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-47, 0] in dimension 0 (overworld) while populating chunk [-46, 0], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-48, 0] in dimension 0 (overworld) while populating chunk [-47, 0], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-49, 0] in dimension 0 (overworld) while populating chunk [-48, 0], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-48, -1] in dimension 0 (overworld) while populating chunk [-49, 0], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-48, -2] in dimension 0 (overworld) while populating chunk [-49, 0], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-49, -1] in dimension 0 (overworld) while populating chunk [-48, -2], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-50, 0] in dimension 0 (overworld) while populating chunk [-49, -1], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:42] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-51, 0] in dimension 0 (overworld) while populating chunk [-50, 0], causing cascading worldgen lag.
-[00:31:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-51, -1] in dimension 0 (overworld) while populating chunk [-51, 0], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-52, -1] in dimension 0 (overworld) while populating chunk [-51, -1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-52, 0] in dimension 0 (overworld) while populating chunk [-52, -1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-52, -2] in dimension 0 (overworld) while populating chunk [-52, -1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-53, -2] in dimension 0 (overworld) while populating chunk [-52, -2], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-51, -2] in dimension 0 (overworld) while populating chunk [-51, -1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-50, -1] in dimension 0 (overworld) while populating chunk [-49, -1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-49, -2] in dimension 0 (overworld) while populating chunk [-50, -1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-50, -2] in dimension 0 (overworld) while populating chunk [-50, -1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-49, -3] in dimension 0 (overworld) while populating chunk [-50, -1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-50, -3] in dimension 0 (overworld) while populating chunk [-49, -3], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-48, -4] in dimension 0 (overworld) while populating chunk [-49, -3], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-47, -5] in dimension 0 (overworld) while populating chunk [-48, -4], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-48, -5] in dimension 0 (overworld) while populating chunk [-47, -5], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-48, -6] in dimension 0 (overworld) while populating chunk [-47, -5], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-49, -5] in dimension 0 (overworld) while populating chunk [-48, -6], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-47, -6] in dimension 0 (overworld) while populating chunk [-47, -5], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-49, -4] in dimension 0 (overworld) while populating chunk [-49, -3], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-50, -4] in dimension 0 (overworld) while populating chunk [-49, -4], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-51, -3] in dimension 0 (overworld) while populating chunk [-50, -4], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-51, -4] in dimension 0 (overworld) while populating chunk [-51, -3], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-52, -4] in dimension 0 (overworld) while populating chunk [-51, -4], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-52, -3] in dimension 0 (overworld) while populating chunk [-50, -4], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-50, -3] in dimension 0 (overworld) while populating chunk [-50, -1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-47, 1] in dimension 0 (overworld) while populating chunk [-49, 0], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-48, 1] in dimension 0 (overworld) while populating chunk [-47, 1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-47, 2] in dimension 0 (overworld) while populating chunk [-47, 1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-48, 2] in dimension 0 (overworld) while populating chunk [-47, 1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, 1] in dimension 0 (overworld) while populating chunk [-44, 3], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, 0] in dimension 0 (overworld) while populating chunk [-44, 1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -1] in dimension 0 (overworld) while populating chunk [-44, 0], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-45, -2] in dimension 0 (overworld) while populating chunk [-44, -1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -2] in dimension 0 (overworld) while populating chunk [-44, -1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, 0] in dimension 0 (overworld) while populating chunk [-44, 0], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -1] in dimension 0 (overworld) while populating chunk [-43, 0], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -2] in dimension 0 (overworld) while populating chunk [-43, -1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-43, 2] in dimension 0 (overworld) while populating chunk [-42, 2], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:43] [Server thread/INFO] [STDOUT]: [com.schnurritv.sexmod.t:b:-1]: generated @ -685 47 35
-[00:31:43] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, 1] in dimension 0 (overworld) while populating chunk [-41, 1], causing cascading worldgen lag.
-[00:31:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:31:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:31:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:31:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:32:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-39, -12] in dimension 0 (overworld) while populating chunk [-40, -11], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-40, 6] in dimension 0 (overworld) while populating chunk [-40, 7], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-40, 5] in dimension 0 (overworld) while populating chunk [-40, 7], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, 6] in dimension 0 (overworld) while populating chunk [-40, 5], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, 5] in dimension 0 (overworld) while populating chunk [-40, 5], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, 6] in dimension 0 (overworld) while populating chunk [-41, 5], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, 5] in dimension 0 (overworld) while populating chunk [-41, 5], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, 4] in dimension 0 (overworld) while populating chunk [-42, 5], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, 4] in dimension 0 (overworld) while populating chunk [-43, 4], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-45, 4] in dimension 0 (overworld) while populating chunk [-43, 4], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-46, 3] in dimension 0 (overworld) while populating chunk [-45, 4], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-46, 4] in dimension 0 (overworld) while populating chunk [-45, 4], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, 4] in dimension 0 (overworld) while populating chunk [-41, 5], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, -8] in dimension 0 (overworld) while populating chunk [-40, -8], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-40, -7] in dimension 0 (overworld) while populating chunk [-40, -8], causing cascading worldgen lag.
-[00:32:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, -2] in dimension 0 (overworld) while populating chunk [-41, -1], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, -2] in dimension 0 (overworld) while populating chunk [-41, -1], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -3] in dimension 0 (overworld) while populating chunk [-42, -2], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -4] in dimension 0 (overworld) while populating chunk [-43, -3], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -3] in dimension 0 (overworld) while populating chunk [-43, -4], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-45, -3] in dimension 0 (overworld) while populating chunk [-43, -4], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -4] in dimension 0 (overworld) while populating chunk [-43, -4], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-45, -4] in dimension 0 (overworld) while populating chunk [-43, -4], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-46, -5] in dimension 0 (overworld) while populating chunk [-45, -4], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-46, -6] in dimension 0 (overworld) while populating chunk [-46, -5], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-44, -5] in dimension 0 (overworld) while populating chunk [-45, -4], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -5] in dimension 0 (overworld) while populating chunk [-44, -5], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-44, -6] in dimension 0 (overworld) while populating chunk [-44, -5], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-45, -6] in dimension 0 (overworld) while populating chunk [-44, -5], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-46, -7] in dimension 0 (overworld) while populating chunk [-45, -6], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-45, -5] in dimension 0 (overworld) while populating chunk [-45, -4], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, -3] in dimension 0 (overworld) while populating chunk [-42, -2], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, -3] in dimension 0 (overworld) while populating chunk [-42, -2], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, -4] in dimension 0 (overworld) while populating chunk [-42, -3], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, -4] in dimension 0 (overworld) while populating chunk [-42, -3], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, -5] in dimension 0 (overworld) while populating chunk [-42, -4], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, -5] in dimension 0 (overworld) while populating chunk [-42, -4], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, -6] in dimension 0 (overworld) while populating chunk [-42, -5], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-41, -7] in dimension 0 (overworld) while populating chunk [-42, -5], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, -6] in dimension 0 (overworld) while populating chunk [-42, -5], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-43, -6] in dimension 0 (overworld) while populating chunk [-42, -5], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:07] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-42, 7] in dimension 0 (overworld) while populating chunk [-41, 7], causing cascading worldgen lag.
-[00:32:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:32:59] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-29, -15] in dimension 0 (overworld) while populating chunk [-29, -14], causing cascading worldgen lag.
-[00:32:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:32:59] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-28, -15] in dimension 0 (overworld) while populating chunk [-29, -14], causing cascading worldgen lag.
-[00:32:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:33:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:33:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:33:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:34:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:35:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:35:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:35:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:35:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:35:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:39:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:39:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:39:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:40:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 was slain by Zombie
-[00:42:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:42:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:42:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 was slain by Zombie
-[00:43:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:43:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:43:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Acquire Hardware]
-[00:44:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Isn't It Iron Pick]
-[00:44:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:44:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:44:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:47:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Suit Up]
-[00:48:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:48:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:48:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:49:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:50:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:50:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:50:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:51:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:52:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:52:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chamo1003 lost connection: Disconnected
-[00:52:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 left the game
-[00:53:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:53:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:54:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:54:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:54:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
-[00:56:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Life Finds a Way]
-[00:56:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm lost connection: Disconnected
-[00:56:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm left the game
-[00:57:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[00:57:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[00:57:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[00:57:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[00:57:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
-[00:57:03] [Server thread/INFO] [FML]: Unloading dimension 0
-[00:57:03] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[00:57:03] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[00:57:03] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:13:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:13:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:13:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:13:41] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[01:13:41] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[01:13:43] [main/INFO] [FML]: Searching /workspaces/msxtest/servidor_minecraft/./mods for mods
+[01:13:43] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:13:43] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:13:43] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[01:13:43] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine.jar
+[01:13:43] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:13:43] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[01:13:43] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:13:43] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[01:13:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:13:44] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[01:13:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:13:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:13:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:13:44] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[01:13:44] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[01:13:44] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[01:13:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$2, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$Options, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.LoadingScreenRenderer, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.util.ScreenShotHelper, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.FontRenderer, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiSlot, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiMainMenu, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiVideoSettings, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.TexturedQuad, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelBox, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelRenderer, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$2, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$3, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$4, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$2, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$3, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$4, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.entity.AbstractClientPlayer, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$2, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$State, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$2, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$3, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$4, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$2, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$ContainerLocalRenderInformation, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockFluidRenderer, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$EnumNeighborInfo, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$VertexTranslations, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$Orientation, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuad, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuadRetextured, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery$5, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ItemOverrideList, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$2, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$3, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$PendingUpload, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.RenderChunk, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderManager, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderItemFrame, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$9, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$10, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$2, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$3, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$4, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$5, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$6, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$7, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$8, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.layers.LayerArmorBase, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.LayeredColorMaskTexture, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Holder, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Slot, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$2, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$3, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureUtil, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$2, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$3, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$Entry, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelRotation, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$2, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$3, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$2, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$3, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$1, but received non-empty
+[01:13:45] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$FboMode, but received non-empty
+[01:13:45] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:13:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:13:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:13:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:13:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:13:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:13:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:13:46] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:13:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:13:46] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[01:13:46] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[01:13:46] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
+[01:13:46] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[01:13:46] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
+[01:13:46] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[01:13:46] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+[01:13:46] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:13:47] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[01:13:47] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[01:13:48] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[01:13:48] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
+[01:13:50] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[01:13:50] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
+[01:13:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:13:50] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[01:13:50] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:13:50] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:13:50] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:13:51] [Server thread/INFO] [FML]: Searching /workspaces/msxtest/servidor_minecraft/./mods for mods
+[01:13:52] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[01:13:52] [Server thread/WARN] [FML]: Mod damageindicatorsmod is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[01:13:53] [Server thread/INFO] [FML]: Mod geckolib3 is missing the required element 'name'. Substituting geckolib3
+[01:13:53] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
+[01:13:53] [Server thread/INFO] [FML]: Forge Mod Loader has identified 36 mods to load
+[01:13:53] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:13:53] [Server thread/WARN] [FML]: Missing English translation for geckolib3: assets/geckolib3/lang/en_us.lang
+[01:13:54] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
+[01:13:54] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:13:54] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, aether_legacy, atum, baubles, betternether, biomesoplenty, botania, caves, chisel, damageindicatorsmod, mocreatures, epicfight, iceologer, grimoireofgaia, horror_elements_mod, waila, jei, sexmod, geckolib3, mca, millenaire, ruins, mowziesmobs, mutantbeasts, patchouli, additionalstructures, roguelike, twilightforest, xaerominimap, xaeroworldmap, llibrary] at CLIENT
+[01:13:54] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, aether_legacy, atum, baubles, betternether, biomesoplenty, botania, caves, chisel, damageindicatorsmod, mocreatures, epicfight, iceologer, grimoireofgaia, horror_elements_mod, waila, jei, sexmod, geckolib3, mca, millenaire, ruins, mowziesmobs, mutantbeasts, patchouli, additionalstructures, roguelike, twilightforest, xaerominimap, xaeroworldmap, llibrary] at SERVER
+[01:13:55] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[01:13:55] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.d for mod sexmod
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.v for mod sexmod
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.bq$b for mod sexmod
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.ah for mod sexmod
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.c0 for mod sexmod
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.bV for mod sexmod
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.w$a for mod sexmod
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.d for mod geckolib3
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.v for mod geckolib3
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.bq$b for mod geckolib3
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.ah for mod geckolib3
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.c0 for mod geckolib3
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.bV for mod geckolib3
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:56] [Server thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.schnurritv.sexmod.w$a for mod geckolib3
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[01:13:56] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[01:13:56] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[01:13:56] [Server thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:498)
+[01:13:56] [Server thread/WARN] [FML]: *  at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)...
+[01:13:56] [Server thread/WARN] [FML]: ****************************************
+[01:13:57] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:13:57] [Server thread/INFO] [FML]: Found 3029 ObjectHolder annotations
+[01:13:57] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:13:57] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[01:13:57] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:13:57] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[01:13:58] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[01:13:58] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:13:58] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[01:13:59] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[01:13:59] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
+[01:13:59] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
+[01:13:59] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
+[01:14:00] [Server thread/INFO] [FML]: Applying holder lookups
+[01:14:00] [Server thread/INFO] [FML]: Holder lookups applied
+[01:14:01] [Server thread/INFO] [mocreatures]: Registering entities...
+[01:14:01] [Server thread/INFO] [STDOUT]: [drzhark.mocreatures.compat.CompatHandler:<clinit>:82]: MIA config files modified successfully!
+[01:14:02] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
+[01:14:02] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
+[01:14:02] [Server thread/INFO] [mca]: Loaded 1 supporters.
+[01:14:02] [Server thread/WARN] [millenaire]: No need to redeploy Millénaire as the millenaire folder is already at vesion 8.1.2.
+[01:14:02] [Server thread/INFO] [FML]: SRV ERROR: null: Unknown config on line: generate_colour_chart=false
+[01:14:02] [Server thread/INFO] [FML]: SRV ERROR: null: Unknown config on line: generate_goods_list=false
+[01:14:02] [Server thread/INFO] [STDOUT]: [org.millenaire.common.config.MillConfigValues:readConfigFile:512]: Read config in config-server.txt. Logging: true/true
+[01:14:02] [Server thread/INFO] [STDOUT]: [org.millenaire.common.config.MillConfigValues:readConfigFile:512]: Read config in config-server-custom.txt. Logging: true/true
+[01:14:02] [Server thread/INFO] [FML]: SRV Starting new session. Mods: examplemod 
+[01:14:03] [Server thread/INFO] [STDOUT]: [xxrexraptorxx.additionalstructures.proxy.CommonProxy:preInit:34]: Mystcraft not found - integration not active
+[01:14:03] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
+[01:14:03] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Chisel.
+[01:14:03] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[01:14:03] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[01:14:03] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[01:14:03] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[01:14:03] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[01:14:03] [Server thread/INFO] [Chisel]: Loading blocks...
+[01:14:03] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[01:14:03] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[01:14:03] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[01:14:04] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
+[01:14:04] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[01:14:04] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[01:14:04] [Server thread/INFO] [grimoireofgaia]: Registering blocks...
+[01:14:04] [Server thread/INFO] [grimoireofgaia]: Block registration complete.
+[01:14:04] [Server thread/INFO] [FML]: Applying holder lookups
+[01:14:04] [Server thread/INFO] [FML]: Holder lookups applied
+[01:14:04] [Server thread/INFO] [Chisel]: Loading items...
+[01:14:04] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[01:14:04] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[01:14:04] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[01:14:04] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
+[01:14:05] [Server thread/INFO] [grimoireofgaia]: Registering item blocks...
+[01:14:05] [Server thread/INFO] [grimoireofgaia]: Item block registration complete.
+[01:14:05] [Server thread/INFO] [grimoireofgaia]: Registering items...
+[01:14:05] [Server thread/INFO] [grimoireofgaia]: Item registration complete.
+[01:14:05] [Server thread/INFO] [FML]: Applying holder lookups
+[01:14:05] [Server thread/INFO] [FML]: Holder lookups applied
+[01:14:05] [Server thread/INFO] [grimoireofgaia]: Registering entities...
+[01:14:05] [Server thread/INFO] [grimoireofgaia]: Entity registration complete.
+[01:14:06] [Server thread/INFO] [grimoireofgaia]: Registering Sounds
+[01:14:06] [Server thread/INFO] [grimoireofgaia]: Sounds Finished
+[01:14:06] [Server thread/INFO] [FML]: Applying holder lookups
+[01:14:06] [Server thread/INFO] [FML]: Holder lookups applied
+[01:14:06] [Server thread/INFO] [FML]: Applying holder lookups
+[01:14:06] [Server thread/INFO] [FML]: Holder lookups applied
+[01:14:06] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:14:06] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:14:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:14:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:14:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[01:14:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[01:14:06] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[01:14:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:14:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:14:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:14:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stick`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `torch`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ladder`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `chest`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trapdoor`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stone_sword`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stone_shovel`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stone_pickaxe`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stone_hoe`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stone_axe`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/INFO] [Chisel]: Loading recipes...
+[01:14:07] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[01:14:07] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[01:14:07] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[01:14:07] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
+[01:14:07] [Server thread/WARN] [FML]: ****************************************
+[01:14:07] [Server thread/WARN] [FML]: * Invalid registration attempt for an Ore Dictionary item with name doorWood has occurred. The registration has been denied to prevent crashes. The mod responsible for the registration needs to correct this.
+[01:14:07] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:665)
+[01:14:07] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:651)
+[01:14:07] [Server thread/WARN] [FML]: *  at drzhark.mocreatures.init.MoCRecipes$RegistrationHandler.registerRecipes(MoCRecipes.java:99)
+[01:14:07] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_100_RegistrationHandler_registerRecipes_Register.invoke(.dynamic)
+[01:14:07] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[01:14:07] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)...
+[01:14:07] [Server thread/WARN] [FML]: ****************************************
+[01:14:07] [Server thread/WARN] [FML]: ****************************************
+[01:14:07] [Server thread/WARN] [FML]: * Invalid registration attempt for an Ore Dictionary item with name slabWood has occurred. The registration has been denied to prevent crashes. The mod responsible for the registration needs to correct this.
+[01:14:07] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:665)
+[01:14:07] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:651)
+[01:14:07] [Server thread/WARN] [FML]: *  at drzhark.mocreatures.init.MoCRecipes$RegistrationHandler.registerRecipes(MoCRecipes.java:117)
+[01:14:07] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_100_RegistrationHandler_registerRecipes_Register.invoke(.dynamic)
+[01:14:07] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[01:14:07] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)...
+[01:14:07] [Server thread/WARN] [FML]: ****************************************
+[01:14:07] [Server thread/INFO] [grimoireofgaia]: Registering recipes...
+[01:14:07] [Server thread/INFO] [grimoireofgaia]: Recipe registration complete.
+[01:14:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `painted acacia slab`, expected `mowziesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[01:14:07] [Server thread/INFO] [FML]: Applying holder lookups
+[01:14:07] [Server thread/INFO] [FML]: Holder lookups applied
+[01:14:07] [Server thread/WARN] [FML]: No types have been added to Biome caves:purplegraniteforest, types have been assigned on a best-effort guess: [DENSE, FOREST]
+[01:14:07] [Server thread/WARN] [FML]: No types have been added to Biome caves:marblezone, types have been assigned on a best-effort guess: [HOT, SANDY, PLAINS]
+[01:14:07] [Server thread/INFO] [mocreatures]: Entity spawn registration complete.
+[01:14:07] [Server thread/WARN] [epicfight]: Failed to load custom item modid:registryname. Item not exist!
+[01:14:07] [Server thread/WARN] [epicfight]: Failed to load custom item modid:registryname. Item not exist!
+[01:14:07] [Server thread/WARN] [epicfight]: Failed to load custom item modid:registryname. Item not exist!
+[01:14:07] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.schnurritv.sexmod.bi from class com.schnurritv.sexmod.bg
+[01:14:16] [Server thread/INFO] [FML]: SRV MAJOR: null: Loading language: fr
+[01:14:16] [Server thread/INFO] [FML]: SRV ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+[01:14:16] [Server thread/INFO] [FML]: SRV ERROR: null: Git conflict lines present in /workspaces/msxtest/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+[01:14:16] [Server thread/INFO] [FML]: SRV MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+[01:14:17] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01:14:17] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
+[01:14:17] [Server thread/INFO] [Chisel]: Received 52 IMC messages from mod twilightforest.
+[01:14:17] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:14:17] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:14:17] [Server thread/INFO] [botania]: The Lexica Botania has 26624 words.
+[01:14:17] [Server thread/INFO] [sexmod]: loading up custom models...
+[01:14:17] [Server thread/INFO] [sexmod]: found 0 custom model(s)
+[01:14:17] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:14:17] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:14:17] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:14:17] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:14:17] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:14:17] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:14:17] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:14:17] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[01:14:17] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01:14:17] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
+[01:14:17] [Server thread/INFO] [Waila]: Starting Waila...
+[01:14:17] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[01:14:17] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[01:14:17] [Server thread/INFO] [Waila]: Registering plugins...
+[01:14:17] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[01:14:17] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[01:14:17] [Server thread/INFO] [Waila]: Registering plugin at com.teammetallurgy.atum.integration.waila.WailaSupport
+[01:14:17] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[01:14:17] [Server thread/INFO] [Waila]: Registering plugin at team.chisel.common.integration.waila.ChiselDataHandler
+[01:14:17] [Server thread/INFO] [Waila]: Starting Waila took 38.73 ms
+[01:14:17] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 36 mods
+[01:14:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "World"
+[01:14:17] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[01:14:18] [Server thread/INFO] [FML]: Applying holder lookups
+[01:14:18] [Server thread/INFO] [FML]: Holder lookups applied
+[01:14:18] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[01:14:18] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[01:14:18] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: 
+[01:14:18] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[01:14:18] [Server thread/INFO] [FML]: Loading dimension 0 (World) (net.minecraft.server.dedicated.DedicatedServer@330fce9b)
+[01:14:19] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1171 advancements
+[01:14:20] [Server thread/INFO] [FML]: Loading dimension 1 (World) (net.minecraft.server.dedicated.DedicatedServer@330fce9b)
+[01:14:20] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[01:14:20] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@330fce9b)
+[01:14:20] [Server thread/INFO] [FML]: Loading dimension 4 (World) (net.minecraft.server.dedicated.DedicatedServer@330fce9b)
+[01:14:20] [Server thread/INFO] [FML]: Loading dimension -17 (World) (net.minecraft.server.dedicated.DedicatedServer@330fce9b)
+[01:14:20] [Server thread/INFO] [FML]: Loading dimension 17 (World) (net.minecraft.server.dedicated.DedicatedServer@330fce9b)
+[01:14:20] [Server thread/INFO] [FML]: Loading dimension 7 (World) (net.minecraft.server.dedicated.DedicatedServer@330fce9b)
+[01:14:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:14:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 38%
+[01:14:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (4.730s)! For help, type "help" or "?"
+[01:14:22] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:14:22] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:14:22] [Server thread/INFO] [FML]: Unloading dimension 4
+[01:14:22] [Server thread/INFO] [FML]: Unloading dimension -17
+[01:14:22] [Server thread/INFO] [FML]: Unloading dimension 17
+[01:14:22] [Server thread/INFO] [FML]: Unloading dimension 7
+[01:15:07] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 1276
+[01:18:40] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:18:40] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,jei@4.16.1.1012,damageindicatorsmod@1.0,botania@r1.10-364,horror_elements_mod@1.0.0,betternether@0.1.8.6,roguelike@2.4.6,mocreatures@12.4.5,sexmod@1.9.0,patchouli@1.0-23.6,xaerominimap@24.5.0,mcp@9.42,epicfight@1.12.2-2.2.8,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.0,FML@8.0.99.99,mutantbeasts@1.12.2-1.0.2,atum@2.0.20,caves@1.0.0,iceologer@1.5.3,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.2,chisel@MC1.12.2-1.0.2.45,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,aether_legacy@1.5.3.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,ruins@17.2,twilightforest@3.11.1021,geckolib3@3.0.30
+[01:18:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:18:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lapro9102[/127.79.188.167:35005] logged in with entity id 244 at (-180.5, 68.0, 45.5)
+[01:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lapro9102 joined the game
+[01:18:42] [Server thread/INFO] [Waila]: Player EntityPlayerMP['lapro9102'/244, l='World', x=-180.50, y=68.00, z=45.50] connected. Sending ping
+[01:18:42] [Server thread/WARN] [sexmod]: got a duped Suk with id '0ba62db9-280b-4cff-aeca-f989eca80632'. Deleted her
+[01:18:42] [Server thread/WARN] [sexmod]: got a duped Ahza with id '5adb7449-217d-41b1-8abc-19377261d5c6'. Deleted her
+[01:18:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity sexmod:kobold but it was marked as removed already
+[01:18:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity sexmod:kobold but it was marked as removed already
+[01:22:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lapro9102 has made the advancement [Millénaire]
+[01:22:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lapro9102 has made the advancement [Explorer]
+[01:22:46] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-33, -16] in dimension 0 (overworld) while populating chunk [-34, -16], causing cascading worldgen lag.
+[01:22:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:22:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lapro9102 moved too quickly! 0.07653176913413517,1.252203340253729,-10.121132702123191
+[01:22:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2946ms behind, skipping 58 tick(s)
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -21] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -22] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -23] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -24] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -25] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -29] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -30] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -31] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -32] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -33] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -34] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -35] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -36] in dimension 0 (overworld) while populating chunk [-28, -20], causing cascading worldgen lag.
+[01:23:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-16, -22] in dimension 0 (overworld) while populating chunk [-15, -21], causing cascading worldgen lag.
+[01:23:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:08] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-19, -24] in dimension 0 (overworld) while populating chunk [-19, -23], causing cascading worldgen lag.
+[01:23:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:23:34] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[01:23:34] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml

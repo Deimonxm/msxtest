@@ -1,0 +1,4 @@
+villager:mayan_lonemayanshaman
+villager:mayan_lonemayanshamanwife
+village:mayan_lonemayanshaman
+building:mayan_lonemayanshaman
