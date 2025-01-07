@@ -1794,3 +1794,572 @@
 [02:01:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [02:04:12] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-3, 31] in dimension 0 (overworld) while populating chunk [-4, 32], causing cascading worldgen lag.
 [02:04:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:08] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-3, 26] in dimension 0 (overworld) while populating chunk [-3, 25], causing cascading worldgen lag.
+[02:08:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:08] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-3, 27] in dimension 0 (overworld) while populating chunk [-3, 26], causing cascading worldgen lag.
+[02:08:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:08] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-3, 28] in dimension 0 (overworld) while populating chunk [-3, 27], causing cascading worldgen lag.
+[02:08:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:08] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-3, 29] in dimension 0 (overworld) while populating chunk [-3, 28], causing cascading worldgen lag.
+[02:08:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:08] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-2, 29] in dimension 0 (overworld) while populating chunk [-3, 28], causing cascading worldgen lag.
+[02:08:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:08] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-2, 28] in dimension 0 (overworld) while populating chunk [-2, 29], causing cascading worldgen lag.
+[02:08:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:08] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-2, 25] in dimension 0 (overworld) while populating chunk [-3, 25], causing cascading worldgen lag.
+[02:08:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-2, 15] in dimension 0 (overworld) while populating chunk [-2, 16], causing cascading worldgen lag.
+[02:08:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-1, 15] in dimension 0 (overworld) while populating chunk [-2, 15], causing cascading worldgen lag.
+[02:08:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-2, 13] in dimension 0 (overworld) while populating chunk [-2, 14], causing cascading worldgen lag.
+[02:08:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-2, 12] in dimension 0 (overworld) while populating chunk [-2, 14], causing cascading worldgen lag.
+[02:08:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:24] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-1, 26] in dimension 0 (overworld) while populating chunk [-2, 26], causing cascading worldgen lag.
+[02:08:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:24] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-1, 25] in dimension 0 (overworld) while populating chunk [-1, 26], causing cascading worldgen lag.
+[02:08:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:08:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:08:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity caves:scorpion but it was marked as removed already
+[02:09:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-1, 18] in dimension 0 (overworld) while populating chunk [-1, 19], causing cascading worldgen lag.
+[02:09:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-1, 17] in dimension 0 (overworld) while populating chunk [-1, 19], causing cascading worldgen lag.
+[02:09:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-1, 22] in dimension 0 (overworld) while populating chunk [-1, 20], causing cascading worldgen lag.
+[02:09:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:03] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-1, 21] in dimension 0 (overworld) while populating chunk [-1, 20], causing cascading worldgen lag.
+[02:09:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [0, 17] in dimension 0 (overworld) while populating chunk [0, 18], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 21] in dimension 0 (overworld) while populating chunk [0, 22], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 21] in dimension 0 (overworld) while populating chunk [1, 21], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 20] in dimension 0 (overworld) while populating chunk [2, 21], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 20] in dimension 0 (overworld) while populating chunk [2, 21], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 19] in dimension 0 (overworld) while populating chunk [2, 20], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 18] in dimension 0 (overworld) while populating chunk [2, 20], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 19] in dimension 0 (overworld) while populating chunk [2, 20], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 22] in dimension 0 (overworld) while populating chunk [2, 21], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 23] in dimension 0 (overworld) while populating chunk [1, 22], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 22] in dimension 0 (overworld) while populating chunk [2, 21], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 23] in dimension 0 (overworld) while populating chunk [2, 22], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [0, 26] in dimension 0 (overworld) while populating chunk [0, 25], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 27] in dimension 0 (overworld) while populating chunk [0, 27], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 28] in dimension 0 (overworld) while populating chunk [0, 28], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 27] in dimension 0 (overworld) while populating chunk [1, 28], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 26] in dimension 0 (overworld) while populating chunk [2, 27], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 25] in dimension 0 (overworld) while populating chunk [2, 26], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 24] in dimension 0 (overworld) while populating chunk [2, 26], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 26] in dimension 0 (overworld) while populating chunk [2, 27], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 25] in dimension 0 (overworld) while populating chunk [2, 27], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:23] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 25] in dimension 0 (overworld) while populating chunk [2, 27], causing cascading worldgen lag.
+[02:09:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:33] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 11] in dimension 0 (overworld) while populating chunk [1, 10], causing cascading worldgen lag.
+[02:09:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [1, 13] in dimension 0 (overworld) while populating chunk [1, 11], causing cascading worldgen lag.
+[02:09:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [1, 12] in dimension 0 (overworld) while populating chunk [1, 11], causing cascading worldgen lag.
+[02:09:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[02:09:33] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 17] in dimension 0 (overworld) while populating chunk [1, 15], causing cascading worldgen lag.
+[02:09:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:33] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 16] in dimension 0 (overworld) while populating chunk [1, 15], causing cascading worldgen lag.
+[02:09:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:33] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 16] in dimension 0 (overworld) while populating chunk [1, 15], causing cascading worldgen lag.
+[02:09:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:33] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 15] in dimension 0 (overworld) while populating chunk [2, 16], causing cascading worldgen lag.
+[02:09:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class gaia.entity.monster.EntityGaiaMinotaurus from class gaia.entity.monster.EntityGaiaOrc
+[02:09:40] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [0, 8] in dimension 0 (overworld) while populating chunk [1, 8], causing cascading worldgen lag.
+[02:09:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:40] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 7] in dimension 0 (overworld) while populating chunk [0, 8], causing cascading worldgen lag.
+[02:09:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:40] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 6] in dimension 0 (overworld) while populating chunk [1, 7], causing cascading worldgen lag.
+[02:09:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:40] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [0, 7] in dimension 0 (overworld) while populating chunk [1, 7], causing cascading worldgen lag.
+[02:09:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [3, 11] in dimension 0 (overworld) while populating chunk [2, 11], causing cascading worldgen lag.
+[02:09:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [3, 10] in dimension 0 (overworld) while populating chunk [3, 11], causing cascading worldgen lag.
+[02:09:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:44] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [3, 9] in dimension 0 (overworld) while populating chunk [3, 11], causing cascading worldgen lag.
+[02:09:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:54] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [3, 14] in dimension 0 (overworld) while populating chunk [3, 15], causing cascading worldgen lag.
+[02:09:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:55] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [3, 23] in dimension 0 (overworld) while populating chunk [3, 22], causing cascading worldgen lag.
+[02:09:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:04] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [4, 24] in dimension 0 (overworld) while populating chunk [4, 23], causing cascading worldgen lag.
+[02:10:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:04] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [4, 10] in dimension 0 (overworld) while populating chunk [4, 11], causing cascading worldgen lag.
+[02:10:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:04] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [4, 9] in dimension 0 (overworld) while populating chunk [4, 10], causing cascading worldgen lag.
+[02:10:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:04] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [5, 25] in dimension 0 (overworld) while populating chunk [4, 25], causing cascading worldgen lag.
+[02:10:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:04] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [5, 24] in dimension 0 (overworld) while populating chunk [5, 25], causing cascading worldgen lag.
+[02:10:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:335]: Faulty Template name: Ship1.tml
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: java.lang.IndexOutOfBoundsException: Index: 8, Size: 8
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.rangeCheck(ArrayList.java:659)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.get(ArrayList.java:435)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuildNested(RuinTemplate.java:435)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuild(RuinTemplate.java:330)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.createBuilding(RuinGenerator.java:257)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.generateNormal(RuinGenerator.java:199)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.generateSurface(RuinsMod.java:234)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.access$300(RuinsMod.java:44)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod$RuinsWorldGenerator.generate(RuinsMod.java:203)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:999)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:157)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.management.PlayerChunkMapEntry.func_187268_a(PlayerChunkMapEntry.java:126)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.management.PlayerChunkMap.func_72693_b(SourceFile:147)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:227)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[02:10:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.lang.Thread.run(Thread.java:750)
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [5, 14] in dimension 0 (overworld) while populating chunk [5, 12], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [5, 15] in dimension 0 (overworld) while populating chunk [5, 14], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [5, 16] in dimension 0 (overworld) while populating chunk [5, 15], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [5, 17] in dimension 0 (overworld) while populating chunk [5, 16], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 16] in dimension 0 (overworld) while populating chunk [5, 15], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 15] in dimension 0 (overworld) while populating chunk [6, 16], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 17] in dimension 0 (overworld) while populating chunk [6, 16], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [5, 19] in dimension 0 (overworld) while populating chunk [6, 17], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [5, 18] in dimension 0 (overworld) while populating chunk [6, 17], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 14] in dimension 0 (overworld) while populating chunk [5, 15], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [5, 13] in dimension 0 (overworld) while populating chunk [5, 12], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 22] in dimension 0 (overworld) while populating chunk [5, 22], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:29] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 21] in dimension 0 (overworld) while populating chunk [6, 22], causing cascading worldgen lag.
+[02:10:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:33] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 28] in dimension 0 (overworld) while populating chunk [2, 28], causing cascading worldgen lag.
+[02:10:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:39] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 29] in dimension 0 (overworld) while populating chunk [2, 29], causing cascading worldgen lag.
+[02:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:39] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [5, 30] in dimension 0 (overworld) while populating chunk [5, 29], causing cascading worldgen lag.
+[02:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:39] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [4, 30] in dimension 0 (overworld) while populating chunk [5, 30], causing cascading worldgen lag.
+[02:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:39] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [4, 31] in dimension 0 (overworld) while populating chunk [4, 30], causing cascading worldgen lag.
+[02:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:39] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [3, 30] in dimension 0 (overworld) while populating chunk [4, 31], causing cascading worldgen lag.
+[02:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:47] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 0 and chunkZ 30...
+[02:10:47] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-1, 30] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[02:10:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:50] [Server thread/INFO] [STDOUT]: [com.schnurritv.sexmod.t:b:-1]: generated @ 99 20 323
+[02:10:50] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, 19] in dimension 0 (overworld) while populating chunk [6, 19], causing cascading worldgen lag.
+[02:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:50] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, 20] in dimension 0 (overworld) while populating chunk [7, 19], causing cascading worldgen lag.
+[02:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:50] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 17] in dimension 0 (overworld) while populating chunk [7, 18], causing cascading worldgen lag.
+[02:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:50] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 16] in dimension 0 (overworld) while populating chunk [7, 18], causing cascading worldgen lag.
+[02:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:50] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, 17] in dimension 0 (overworld) while populating chunk [7, 18], causing cascading worldgen lag.
+[02:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:50] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, 16] in dimension 0 (overworld) while populating chunk [7, 17], causing cascading worldgen lag.
+[02:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:50] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, 15] in dimension 0 (overworld) while populating chunk [7, 16], causing cascading worldgen lag.
+[02:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:50] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 14] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[02:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:50] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 13] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[02:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:50] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [8, 16] in dimension 0 (overworld) while populating chunk [7, 17], causing cascading worldgen lag.
+[02:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:335]: Faulty Template name: Ship1.tml
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: java.lang.IndexOutOfBoundsException: Index: 8, Size: 8
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.rangeCheck(ArrayList.java:659)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.get(ArrayList.java:435)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuildNested(RuinTemplate.java:435)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuild(RuinTemplate.java:330)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.createBuilding(RuinGenerator.java:257)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.generateNormal(RuinGenerator.java:199)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.generateSurface(RuinsMod.java:234)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.access$300(RuinsMod.java:44)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod$RuinsWorldGenerator.generate(RuinsMod.java:203)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:999)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:157)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_72964_e(World.java:310)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_175726_f(World.java:305)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_180495_p(World.java:911)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_190529_b(World.java:581)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_190522_c(World.java:480)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.markAndNotifyBlock(World.java:390)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_180501_a(World.java:361)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.feature.WorldGenMinable.func_180709_b(WorldGenMinable.java:79)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.mcreator.caves.block.BlockMossyStone.generateWorld(BlockMossyStone.java:80)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.mcreator.caves.ElementsCaves.lambda$generate$0(ElementsCaves.java:99)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.forEach(ArrayList.java:1259)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.mcreator.caves.ElementsCaves.generate(ElementsCaves.java:99)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:985)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:157)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_72964_e(World.java:310)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_175726_f(World.java:305)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_180495_p(World.java:911)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.feature.WorldGenMinable.func_180709_b(WorldGenMinable.java:76)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.mcreator.caves.block.BlockMossyStone.generateWorld(BlockMossyStone.java:80)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.mcreator.caves.ElementsCaves.lambda$generate$0(ElementsCaves.java:99)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.forEach(ArrayList.java:1259)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.mcreator.caves.ElementsCaves.generate(ElementsCaves.java:99)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:980)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.common.chunkio.ChunkIOProvider.syncCallback(ChunkIOProvider.java:110)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.common.chunkio.ChunkIOExecutor.tick(ChunkIOExecutor.java:150)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:728)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[02:10:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.lang.Thread.run(Thread.java:750)
+[02:10:50] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [8, 15] in dimension 0 (overworld) while populating chunk [8, 16], causing cascading worldgen lag.
+[02:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [8, 14] in dimension 0 (overworld) while populating chunk [8, 15], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [8, 13] in dimension 0 (overworld) while populating chunk [8, 14], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, 13] in dimension 0 (overworld) while populating chunk [8, 14], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, 14] in dimension 0 (overworld) while populating chunk [8, 15], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, 11] in dimension 0 (overworld) while populating chunk [7, 12], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 10] in dimension 0 (overworld) while populating chunk [6, 11], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 9] in dimension 0 (overworld) while populating chunk [6, 10], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:335]: Faulty Template name: Ship1.tml
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: java.lang.IndexOutOfBoundsException: Index: 8, Size: 8
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.rangeCheck(ArrayList.java:659)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.get(ArrayList.java:435)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuildNested(RuinTemplate.java:435)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuild(RuinTemplate.java:330)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.createBuilding(RuinGenerator.java:257)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.generateNormal(RuinGenerator.java:199)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.generateSurface(RuinsMod.java:234)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.access$300(RuinsMod.java:44)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod$RuinsWorldGenerator.generate(RuinsMod.java:203)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:980)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.common.chunkio.ChunkIOProvider.syncCallback(ChunkIOProvider.java:110)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.common.chunkio.ChunkIOExecutor.syncChunkLoad(ChunkIOExecutor.java:94)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:118)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.ChunkProviderServer.func_186028_c(ChunkProviderServer.java:89)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:135)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_72964_e(World.java:310)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_175726_f(World.java:305)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_180495_p(World.java:911)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.feature.WorldGenMinable.func_180709_b(WorldGenMinable.java:76)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.mcreator.caves.block.BlockMossyStone.generateWorld(BlockMossyStone.java:80)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.mcreator.caves.ElementsCaves.lambda$generate$0(ElementsCaves.java:99)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.forEach(ArrayList.java:1259)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.mcreator.caves.ElementsCaves.generate(ElementsCaves.java:99)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:985)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:157)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_72964_e(World.java:310)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_175726_f(World.java:305)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.World.func_180495_p(World.java:911)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.feature.WorldGenMinable.func_180709_b(WorldGenMinable.java:76)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.mcreator.caves.block.BlockMossyStone.generateWorld(BlockMossyStone.java:80)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.mcreator.caves.ElementsCaves.lambda$generate$0(ElementsCaves.java:99)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.forEach(ArrayList.java:1259)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.mcreator.caves.ElementsCaves.generate(ElementsCaves.java:99)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:999)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.common.chunkio.ChunkIOProvider.syncCallback(ChunkIOProvider.java:110)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.common.chunkio.ChunkIOExecutor.tick(ChunkIOExecutor.java:150)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:728)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[02:10:51] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.lang.Thread.run(Thread.java:750)
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, 10] in dimension 0 (overworld) while populating chunk [6, 9], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [8, 10] in dimension 0 (overworld) while populating chunk [7, 10], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [8, 9] in dimension 0 (overworld) while populating chunk [7, 10], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, 8] in dimension 0 (overworld) while populating chunk [8, 9], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 8] in dimension 0 (overworld) while populating chunk [7, 8], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [5, 8] in dimension 0 (overworld) while populating chunk [6, 8], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 7] in dimension 0 (overworld) while populating chunk [7, 8], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, 9] in dimension 0 (overworld) while populating chunk [7, 10], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:51] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [7, 24] in dimension 0 (overworld) while populating chunk [6, 23], causing cascading worldgen lag.
+[02:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 hit the ground too hard
+[02:10:57] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 31] in dimension 0 (overworld) while populating chunk [-1, 31], causing cascading worldgen lag.
+[02:10:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:57] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 31] in dimension 0 (overworld) while populating chunk [1, 31], causing cascading worldgen lag.
+[02:10:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:57] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [0, 31] in dimension 0 (overworld) while populating chunk [-1, 31], causing cascading worldgen lag.
+[02:10:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:57] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-3, 31] in dimension 0 (overworld) while populating chunk [-2, 31], causing cascading worldgen lag.
+[02:10:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:57] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-4, 31] in dimension 0 (overworld) while populating chunk [-2, 31], causing cascading worldgen lag.
+[02:10:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:57] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [3, 32] in dimension 0 (overworld) while populating chunk [3, 31], causing cascading worldgen lag.
+[02:10:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:57] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [2, 32] in dimension 0 (overworld) while populating chunk [3, 32], causing cascading worldgen lag.
+[02:10:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:57] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [1, 32] in dimension 0 (overworld) while populating chunk [3, 32], causing cascading worldgen lag.
+[02:10:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:57] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [6, 31] in dimension 0 (overworld) while populating chunk [5, 31], causing cascading worldgen lag.
+[02:10:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:59] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-1, 33] in dimension 0 (overworld) while populating chunk [-1, 32], causing cascading worldgen lag.
+[02:10:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:59] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-4, 32] in dimension 0 (overworld) while populating chunk [-3, 32], causing cascading worldgen lag.
+[02:10:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:59] [Server thread/WARN] [FML]: Caves+ loaded a new chunk [-5, 32] in dimension 0 (overworld) while populating chunk [-3, 32], causing cascading worldgen lag.
+[02:10:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:11:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chamo1003 lost connection: Timed out
+[02:11:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 left the game
+[02:11:56] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:11:56] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,jei@4.16.1.1012,damageindicatorsmod@1.0,botania@r1.10-364,horror_elements_mod@1.0.0,betternether@0.1.8.6,roguelike@2.4.6,mocreatures@12.4.5,sexmod@1.9.0,patchouli@1.0-23.6,xaerominimap@24.5.0,mcp@9.42,epicfight@1.12.2-2.2.8,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.0,FML@8.0.99.99,mutantbeasts@1.12.2-1.0.2,atum@2.0.20,caves@1.0.0,iceologer@1.5.3,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.2,chisel@MC1.12.2-1.0.2.45,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,aether_legacy@1.5.3.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,ruins@17.2,twilightforest@3.11.1021,geckolib3@3.0.30
+[02:11:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:11:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chamo1003[/127.79.188.167:39557] logged in with entity id 35891 at (-187.35898647630876, 66.67647087614428, 63.36050323537329)
+[02:11:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 joined the game
+[02:11:59] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Chamo1003'/35891, l='World', x=-187.36, y=66.68, z=63.36] connected. Sending ping
+[02:12:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chamo1003 lost connection: Timed out
+[02:12:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 left the game
+[02:13:01] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[02:13:01] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,jei@4.16.1.1012,damageindicatorsmod@1.0,botania@r1.10-364,horror_elements_mod@1.0.0,betternether@0.1.8.6,roguelike@2.4.6,mocreatures@12.4.5,sexmod@1.9.0,patchouli@1.0-23.6,xaerominimap@24.5.0,mcp@9.42,epicfight@1.12.2-2.2.8,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.0,FML@8.0.99.99,mutantbeasts@1.12.2-1.0.2,atum@2.0.20,caves@1.0.0,iceologer@1.5.3,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.2,chisel@MC1.12.2-1.0.2.45,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,aether_legacy@1.5.3.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,ruins@17.2,twilightforest@3.11.1021,geckolib3@3.0.30
+[02:13:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:13:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chamo1003[/127.79.188.167:40465] logged in with entity id 36063 at (-187.35898647630876, 66.67647087614428, 63.36050323537329)
+[02:13:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 joined the game
+[02:13:03] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Chamo1003'/36063, l='World', x=-187.36, y=66.68, z=63.36] connected. Sending ping
+[02:13:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chamo1003 lost connection: Timed out
+[02:13:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 left the game

@@ -41,3 +41,7 @@
 -50 70 -117 -41 75 -106 ThrownHouse3.tml
 -50 49 36 -21 56 41 Ship3.tml
 -38 49 46 -15 49 69 OilSlick.tml
+-30 35 396 -26 37 400 OceanGoldOreOutcrop.tml
+26 49 164 33 57 209 Ship4.tml
+40 54 342 76 65 351 Ship2.tml
+106 37 418 119 46 431 OceanVolcanicVent.tml
