@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-01-07 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-01-07 01:29:15 +0000"
@@ -44,6 +50,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-01-07 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-01-07 02:02:33 +0000"
     },
     "done": true
   },
@@ -95,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-01-07 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-01-07 01:29:15 +0000"
@@ -110,6 +128,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-07 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-01-07 02:02:14 +0000"
     },
     "done": true
   },
@@ -180,15 +204,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "entered_water": "2025-01-07 01:41:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-07 01:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2025-01-07 01:41:36 +0000"
     },
     "done": true
   },
@@ -225,6 +249,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-07 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-01-07 02:02:33 +0000"
     },
     "done": true
   },
@@ -280,6 +310,7 @@
     "criteria": {
       "cooked_cod": "2025-01-07 01:34:50 +0000",
       "rotten_flesh": "2025-01-07 01:34:01 +0000",
+      "cooked_chicken": "2025-01-07 01:51:39 +0000",
       "carrot": "2025-01-07 01:33:57 +0000"
     },
     "done": false
@@ -323,6 +354,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-07 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-01-07 02:02:14 +0000"
     },
     "done": true
   },
@@ -398,9 +435,21 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-07 02:02:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-01-07 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-07 01:53:31 +0000"
     },
     "done": true
   },
@@ -434,6 +483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2025-01-07 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-07 01:29:15 +0000"
@@ -443,6 +498,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-07 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2025-01-07 01:53:31 +0000"
     },
     "done": true
   },
@@ -464,6 +525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-07 02:01:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2025-01-07 01:41:36 +0000"
@@ -473,6 +540,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-07 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-07 01:53:31 +0000"
     },
     "done": true
   },
@@ -514,6 +587,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-01-07 01:45:33 +0000",
+      "mountain": "2025-01-07 01:47:28 +0000",
       "mountain_foothills": "2025-01-07 01:42:34 +0000",
       "kelp_forest": "2025-01-07 01:43:16 +0000",
       "gravel_beach": "2025-01-07 01:41:26 +0000"
@@ -529,6 +604,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-01-07 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2025-01-07 02:02:33 +0000"
     },
     "done": true
   },
@@ -572,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-07 01:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-01-07 01:41:36 +0000"
@@ -608,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-01-07 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-01-07 01:29:15 +0000"
@@ -629,6 +722,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-01-07 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2025-01-07 02:03:56 +0000"
     },
     "done": true
   },
@@ -680,15 +779,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/tools/clock": {
     "criteria": {
-      "entered_water": "2025-01-07 01:41:36 +0000"
+      "has_redstone": "2025-01-07 01:53:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-07 01:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2025-01-07 01:41:36 +0000"
     },
     "done": true
   },
@@ -719,9 +824,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2025-01-07 01:33:42 +0000",
+      "zombie": "2025-01-07 01:51:03 +0000",
+      "witch": "2025-01-07 01:53:20 +0000",
       "spider": "2025-01-07 01:33:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-07 01:53:31 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
     "criteria": {

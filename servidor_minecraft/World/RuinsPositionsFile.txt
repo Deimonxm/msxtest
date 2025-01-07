@@ -27,12 +27,16 @@
 -369 67 18 -365 80 20 Pole2.tml
 -321 11 364 -317 13 368 OceanGoldOreOutcrop.tml
 -285 63 2 -277 79 9 MicroHPP.tml
+-274 49 446 -251 49 469 OilSlick.tml
 -271 64 -412 -270 66 -411 BuriedChest.tml
 -254 66 -202 -242 76 -191 Building5.tml
 -251 67 -514 -231 100 -488 AdvancedUndergroundHouse.tml
+-243 49 371 -189 57 378 Ship5.tml
 -210 69 -335 -197 74 -326 Building7.tml
 -148 64 -102 -137 85 -91 Locator3.tml
 -141 52 2 -132 63 38 Ship2.tml
+-119 34 459 -115 36 463 OceanEmeraldOreOutcrop.tml
+-86 49 298 -57 56 303 Ship3.tml
 -81 48 136 -64 52 141 Ship.tml
 -50 70 -117 -41 75 -106 ThrownHouse3.tml
 -50 49 36 -21 56 41 Ship3.tml
