@@ -167,9 +167,21 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "amber": "2025-01-07 00:54:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-01-07 00:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-07 00:54:04 +0000"
     },
     "done": true
   },
@@ -315,6 +327,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-07 00:31:08 +0000",
       "chicken": "2025-01-07 00:33:41 +0000",
+      "baked_potato": "2025-01-07 00:55:10 +0000",
       "apple": "2025-01-07 00:34:18 +0000",
       "rotten_flesh": "2025-01-07 00:17:02 +0000",
       "cooked_chicken": "2025-01-07 00:23:34 +0000"
@@ -460,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-07 00:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-01-07 00:43:54 +0000"
@@ -487,6 +506,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-01-07 00:34:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/miners_delight": {
+    "criteria": {
+      "miners_delight": "2025-01-07 00:56:13 +0000"
     },
     "done": true
   },
@@ -614,9 +639,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-07 00:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "birch_forest": "2025-01-07 00:10:26 +0000",
+      "birch_forest_hills": "2025-01-07 00:50:43 +0000",
       "river": "2025-01-07 00:10:16 +0000"
     },
     "done": false
@@ -729,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-07 00:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2025-01-07 00:10:18 +0000"
@@ -808,9 +846,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/pink_dye_from_miners_delight": {
+    "criteria": {
+      "has_flower": "2025-01-07 00:56:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2025-01-07 00:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-01-07 00:30:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-01-07 00:54:04 +0000"
     },
     "done": true
   },
@@ -835,6 +891,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-07 00:04:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2025-01-07 00:52:18 +0000"
     },
     "done": true
   },
