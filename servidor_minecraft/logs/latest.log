@@ -2363,3 +2363,11 @@
 [02:13:03] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Chamo1003'/36063, l='World', x=-187.36, y=66.68, z=63.36] connected. Sending ping
 [02:13:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chamo1003 lost connection: Timed out
 [02:13:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 left the game
+[02:14:31] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[02:14:31] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,jei@4.16.1.1012,damageindicatorsmod@1.0,botania@r1.10-364,horror_elements_mod@1.0.0,betternether@0.1.8.6,roguelike@2.4.6,mocreatures@12.4.5,sexmod@1.9.0,patchouli@1.0-23.6,xaerominimap@24.5.0,mcp@9.42,epicfight@1.12.2-2.2.8,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.0,FML@8.0.99.99,mutantbeasts@1.12.2-1.0.2,atum@2.0.20,caves@1.0.0,iceologer@1.5.3,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.2,chisel@MC1.12.2-1.0.2.45,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,aether_legacy@1.5.3.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,ruins@17.2,twilightforest@3.11.1021,geckolib3@3.0.30
+[02:14:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:14:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chamo1003[/127.79.188.167:41593] logged in with entity id 36420 at (-187.35898647630876, 66.67647087614428, 63.36050323537329)
+[02:14:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 joined the game
+[02:14:34] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Chamo1003'/36420, l='World', x=-187.36, y=66.68, z=63.36] connected. Sending ping
+[02:14:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chamo1003 lost connection: Timed out
+[02:14:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chamo1003 left the game
